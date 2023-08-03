@@ -42,7 +42,7 @@ function Register() {
     error: suggestionError,
     isLoading: isLoadingSuggestions,
   } = useQuery([`artists/strays/autocomplete?query=${query}`], () =>
-    artistService.strayAutocomplete(query),
+    artistService.strayAutocomplete(query)
   )
 
   if (suggestionError) {
@@ -54,11 +54,6 @@ function Register() {
   const user = useContext(AuthContext)
   const authDispatch = useContext(AuthDispatchContext)
   const queryClient = useQueryClient()
-
-  if (!user) {
-    toast.info('Please login to register as an artist!')
-    return <Navigate to={'/'} />
-  }
 
   const createArtistMutation = useMutation<
     CreateArtistResponse,
@@ -96,6 +91,11 @@ function Register() {
       toast.error(error.message || 'Something went wrong while creating artist')
     },
   })
+
+  if (!user) {
+    toast.info('Please login to register as an artist!')
+    return <Navigate to={'/'} />
+  }
 
   const handleEditEvent = (e: Event | EventModalData, i: number) => {
     setSelectedItemIndex(i)

@@ -4,7 +4,7 @@ import { useScene } from '@/hooks/useScene'
 import { PreloadScene } from '@/scenes'
 import { useEffect, useState } from 'react'
 import { isProd, config } from '@config'
-import content from '@/data/splash.json'
+import content from '../data/splash.json'
 import { isString } from '@/lib/utils'
 
 const Splash = () => {

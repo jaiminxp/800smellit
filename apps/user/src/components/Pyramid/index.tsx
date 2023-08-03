@@ -15,7 +15,7 @@ import { useScene } from '@/hooks/useScene'
 
 const PyramidUI = () => {
   const [display, setDisplay] = useState(false)
-  const [currentScreen, setCurrentScreen] = useState(() => <></>)
+  const [currentScreen, setCurrentScreen] = useState<JSX.Element>()
 
   const buySellStallScene = useScene(
     BuySellStallScene.sceneId
@@ -85,7 +85,9 @@ const PyramidUI = () => {
     }
   }, [venuesStallScene])
 
-  return display ? (
+  if (!display) return null
+
+  return (
     <div className="absolute top-0 left-0 w-full h-full overflow-auto">
       <Header
         showExitBtn={true}
@@ -95,7 +97,7 @@ const PyramidUI = () => {
       />
       {currentScreen}
     </div>
-  ) : null
+  )
 }
 
 export default PyramidUI

@@ -1,8 +1,8 @@
 import { PoetryLobbyScene } from '@scenes'
 
 export class PoetryElevatorDoor {
-  public static ATLAS_TEXTURE: string = 'POETRY_ELEVATOR_DOOR'
-  public static FRAME: string = 'poetry-elevator-door-1.png'
+  public static ATLAS_TEXTURE = 'POETRY_ELEVATOR_DOOR'
+  public static FRAME = 'poetry-elevator-door-1.png'
   coordinates = { x: 1043, y: 555 }
 
   instance: Phaser.GameObjects.Sprite
@@ -13,7 +13,7 @@ export class PoetryElevatorDoor {
         this.coordinates.x,
         this.coordinates.y,
         PoetryElevatorDoor.ATLAS_TEXTURE,
-        PoetryElevatorDoor.FRAME,
+        PoetryElevatorDoor.FRAME
       )
       .setScale(0.985)
 
@@ -27,7 +27,7 @@ export class PoetryElevatorDoor {
         this.coordinates.x - this.instance.width / 4,
         this.coordinates.y - this.instance.height / 2,
         this.instance.width / 2,
-        this.instance.height,
+        this.instance.height
       )
 
     const mask = rect.createGeometryMask()
@@ -45,7 +45,7 @@ export class PoetryElevatorDoor {
           end: 100,
           prefix: 'poetry-elevator-door-',
           suffix: '.png',
-        },
+        }
       ),
       frameRate: 30,
     })

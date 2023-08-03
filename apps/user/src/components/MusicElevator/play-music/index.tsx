@@ -103,7 +103,11 @@ function PlayMusic() {
         </div>
       </div>
       <div className="flex gap-4 mt-2">
-        <img src={gramophoneImg} className="h-[300px] w-4/12" />
+        <img
+          src={gramophoneImg}
+          className="h-[300px] w-4/12"
+          alt="gramophone"
+        />
         <div className="bg-gray-gradient p-5 rounded-2xl">
           {selectedMusician ? (
             <>

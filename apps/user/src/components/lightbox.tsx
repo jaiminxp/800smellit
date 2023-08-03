@@ -21,9 +21,13 @@ const LightBox = ({ image, onClose }: LightboxProps) => {
           onClick={onClose}
           className="absolute -top-[2rem] -right-[2rem] bg-white p-5 rounded-full"
         >
-          <img className="w-6 h-6" src={closeIcon} />
+          <img className="w-6 h-6" src={closeIcon} alt="close icon" />
         </button>
-        <img src={isString(image) ? image : image.url} className="h-full" />
+        <img
+          src={isString(image) ? image : image.url}
+          className="h-full"
+          alt="Selected"
+        />
       </div>
     </div>
   )

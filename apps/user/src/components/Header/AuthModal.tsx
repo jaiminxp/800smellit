@@ -120,7 +120,11 @@ export default function AuthModal({
               className="hover:bg-orange-900 rounded-lg p-1.5"
               onClick={handleClose}
             >
-              <img className="w-5 h-5 fill-white" src={closeIcon} />
+              <img
+                className="w-5 h-5 fill-white"
+                src={closeIcon}
+                alt="close icon"
+              />
               <span className="sr-only">Close modal</span>
             </button>
           </div>

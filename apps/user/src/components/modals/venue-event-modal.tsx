@@ -75,7 +75,7 @@ const VenueEventModal = ({ toggle, onToggle, data, onSubmit }: Props) => {
         return artistService.autocomplete(query)
       }
     },
-    { enabled: false },
+    { enabled: false }
   )
 
   if (suggestionError) {
@@ -84,13 +84,13 @@ const VenueEventModal = ({ toggle, onToggle, data, onSubmit }: Props) => {
 
   useEffect(() => {
     setValue('artist', { _id: '', name: '' })
-  }, [type])
+  }, [type, setValue])
 
   useEffect(() => {
     if (query && type) {
       fetchSuggestions()
     }
-  }, [query])
+  }, [query, type, fetchSuggestions])
 
   const handleFormSubmit: SubmitHandler<VenueEventFormValues> = (values) => {
     onSubmit(values) //call the parent submit function
@@ -153,7 +153,13 @@ const VenueEventModal = ({ toggle, onToggle, data, onSubmit }: Props) => {
                   actionItem={{
                     label: 'Create new artist',
                     action: () => setModalToggle(true),
-                    icon: <img className="w-6 h-auto" src={addIcon} />,
+                    icon: (
+                      <img
+                        alt="plus icon"
+                        className="w-6 h-auto"
+                        src={addIcon}
+                      />
+                    ),
                   }}
                 />
               </div>

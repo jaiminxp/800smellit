@@ -2,7 +2,7 @@ import { ArtElevatorDoor } from '../../gameobjects/art-building/ArtElevatorDoor'
 import { ArtElevatorScene } from '@scenes'
 
 export default class ArtLobbyScene extends Phaser.Scene {
-  public static sceneId: string = 'art-lobbyscene'
+  public static sceneId = 'art-lobbyscene'
   elevatorDoor: ArtElevatorDoor
 
   constructor() {
@@ -28,7 +28,7 @@ export default class ArtLobbyScene extends Phaser.Scene {
 
     this.elevatorDoor.instance.on(
       Phaser.Animations.Events.ANIMATION_COMPLETE,
-      () => this.scene.start(ArtElevatorScene.sceneId),
+      () => this.scene.start(ArtElevatorScene.sceneId)
     )
   }
 }

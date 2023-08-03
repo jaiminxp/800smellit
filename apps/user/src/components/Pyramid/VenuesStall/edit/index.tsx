@@ -31,16 +31,11 @@ const EditVenue = () => {
   const venue = (useLocation().state as { venue: Venue }).venue
 
   useEffect(() => {
-    setEvents(venue.events)
-  }, [])
-
-  if (!venue) {
-    toast.error('Venue not found')
-    return <Navigate to={'/profile'} />
-  }
+    venue && setEvents(venue.events)
+  }, [venue])
 
   const [coordinates, setCoordinates] = useState<LngLatLike | null>(
-    venue.geometry.coordinates,
+    venue.geometry.coordinates
   )
   const navigate = useNavigate()
   const queryClient = useQueryClient()
@@ -231,6 +226,11 @@ const EditVenue = () => {
         },
       }
     : null
+
+  if (!venue) {
+    toast.error('Venue not found')
+    return <Navigate to={'/profile'} />
+  }
 
   return (
     <>
@@ -430,7 +430,7 @@ const EditVenue = () => {
                   getAddress={() =>
                     [address, city, state].reduce(
                       (p, c) => (c !== '' ? p + c + ' ' : p),
-                      '',
+                      ''
                     )
                   }
                   onLocate={setCoordinates}

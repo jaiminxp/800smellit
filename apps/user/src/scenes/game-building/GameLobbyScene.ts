@@ -2,7 +2,7 @@ import { GameElevatorDoor } from '@/gameobjects/game-building/GameElevatorDoor'
 import { GameElevatorScene } from '@scenes'
 
 export default class GameLobbyScene extends Phaser.Scene {
-  public static sceneId: string = 'game-lobbyscene'
+  public static sceneId = 'game-lobbyscene'
   elevatorDoor: GameElevatorDoor
 
   constructor() {
@@ -28,7 +28,7 @@ export default class GameLobbyScene extends Phaser.Scene {
 
     this.elevatorDoor.instance.on(
       Phaser.Animations.Events.ANIMATION_COMPLETE,
-      () => this.scene.start(GameElevatorScene.sceneId),
+      () => this.scene.start(GameElevatorScene.sceneId)
     )
   }
 }

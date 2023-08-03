@@ -45,7 +45,7 @@ const EventModal = ({ toggle, onToggle, data, onSubmit }: EventModalProps) => {
     () => venueService.autocomplete(venueQuery),
     {
       enabled: false,
-    },
+    }
   )
 
   if (suggestionError) {
@@ -81,7 +81,7 @@ const EventModal = ({ toggle, onToggle, data, onSubmit }: EventModalProps) => {
     () => venueService.findById(venue._id),
     {
       enabled: !!venue._id,
-    },
+    }
   )
 
   if (selectedVenueError) {
@@ -90,13 +90,12 @@ const EventModal = ({ toggle, onToggle, data, onSubmit }: EventModalProps) => {
 
   useEffect(() => {
     fetchVenueSuggestions()
-  }, [venueQuery])
+  }, [venueQuery, fetchVenueSuggestions])
 
   useEffect(() => {
-    if (venue._id) {
-      fetchSelectedVenue()
-    }
-  }, [venue])
+    if (!venue._id) return
+    fetchSelectedVenue()
+  }, [venue, fetchSelectedVenue])
 
   const handleFormSubmit: SubmitHandler<EventFormValues> = (values) => {
     onSubmit(values) //call the parent submit function
@@ -148,7 +147,13 @@ const EventModal = ({ toggle, onToggle, data, onSubmit }: EventModalProps) => {
                     actionItem={{
                       label: 'Create new venue',
                       action: () => setVenueModalToggle(true),
-                      icon: <img className="w-6 h-auto" src={addIcon} />,
+                      icon: (
+                        <img
+                          className="w-6 h-auto"
+                          src={addIcon}
+                          alt="plus icon"
+                        />
+                      ),
                     }}
                   />
                 </div>

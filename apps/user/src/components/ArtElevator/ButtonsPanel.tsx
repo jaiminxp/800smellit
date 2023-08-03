@@ -66,8 +66,8 @@ function ElevatorButton({
   onClick,
 }: ElevatorButtonProps) {
   const [hover, setHover] = useState(false)
-  const resolved = to && useResolvedPath(to)
-  const match = resolved && useMatch({ path: resolved.pathname, end: true })
+  const resolved = useResolvedPath(to || '')
+  const match = useMatch({ path: resolved.pathname, end: true })
 
   return (
     <div

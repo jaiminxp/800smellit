@@ -1,8 +1,8 @@
 import { GameLobbyScene } from '@scenes'
 
 export class GameElevatorDoor {
-  public static ATLAS_TEXTURE: string = 'GAME_ELEVATOR_DOOR'
-  public static FRAME: string = 'game-elevator-door-1.png'
+  public static ATLAS_TEXTURE = 'GAME_ELEVATOR_DOOR'
+  public static FRAME = 'game-elevator-door-1.png'
   coordinates = { x: 1115, y: 563 }
 
   instance: Phaser.GameObjects.Sprite
@@ -13,7 +13,7 @@ export class GameElevatorDoor {
         this.coordinates.x,
         this.coordinates.y,
         GameElevatorDoor.ATLAS_TEXTURE,
-        GameElevatorDoor.FRAME,
+        GameElevatorDoor.FRAME
       )
       .setScale(0.98, 1)
 
@@ -27,7 +27,7 @@ export class GameElevatorDoor {
         this.coordinates.x - this.instance.width / 4 + 9,
         this.coordinates.y - this.instance.height / 2 - 5,
         this.instance.width / 2 - 58,
-        this.instance.height,
+        this.instance.height
       )
 
     const mask = rect.createGeometryMask()
@@ -47,7 +47,7 @@ export class GameElevatorDoor {
           end: 250,
           prefix: 'game-elevator-door-',
           suffix: '.png',
-        },
+        }
       ),
       frameRate: 60,
     })

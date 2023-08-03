@@ -53,7 +53,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     if (!error) return
     !!authService.isLoggedIn() && authService.logout()
     user && dispatch({ type: AuthActionType.Delete })
-  }, [error])
+  }, [error, user])
 
   return (
     <AuthContext.Provider value={user}>

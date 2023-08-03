@@ -56,8 +56,9 @@ function EditProfile() {
   }
 
   useEffect(() => {
+    if (!profile) return
     setInitialState(profile)
-  }, [])
+  }, [profile])
 
   const updateArtistMutation = useMutation<
     { success: true },

@@ -27,7 +27,7 @@ const VenueRegisterForm = ({ coordinates, onLocate, onSubmit }: Props) => {
     error: suggestionError,
     isLoading: isLoadingSuggestions,
   } = useQuery([`venues/strays/autocomplete?query=${venueQuery}`], () =>
-    venueService.strayAutocomplete(venueQuery),
+    venueService.strayAutocomplete(venueQuery)
   )
 
   if (suggestionError) {
@@ -64,7 +64,7 @@ const VenueRegisterForm = ({ coordinates, onLocate, onSubmit }: Props) => {
     },
     {
       enabled: false,
-    },
+    }
   )
 
   if (selectedVenueError) {
@@ -75,16 +75,16 @@ const VenueRegisterForm = ({ coordinates, onLocate, onSubmit }: Props) => {
     if (venue && !isString(venue) && venue._id) {
       fetchSelectedVenue()
     }
-  }, [venue])
+  }, [venue, fetchSelectedVenue])
 
   useEffect(() => {
-    if (selectedVenue) {
-      setValue('address', selectedVenue.address.address)
-      setValue('state', selectedVenue.address.state)
-      setValue('city', selectedVenue.address.city)
-      onLocate(selectedVenue.geometry.coordinates)
-    }
-  }, [selectedVenue])
+    if (!selectedVenue) return
+
+    setValue('address', selectedVenue.address.address)
+    setValue('state', selectedVenue.address.state)
+    setValue('city', selectedVenue.address.city)
+    onLocate(selectedVenue.geometry.coordinates)
+  }, [selectedVenue, setValue, onLocate])
 
   const disableInputs =
     venue !== undefined && !isString(venue) && venue._id !== undefined
@@ -246,7 +246,7 @@ const VenueRegisterForm = ({ coordinates, onLocate, onSubmit }: Props) => {
             getAddress={() =>
               [address, city, state].reduce(
                 (p, c) => (c !== '' ? p + c + ' ' : p),
-                '',
+                ''
               )
             }
             onLocate={onLocate}

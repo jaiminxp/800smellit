@@ -3,13 +3,13 @@ import { worldBounds } from '../constants'
 import { HomeScene } from '@scenes'
 
 export class SongContainer {
-  public static texture$: string = 'cloud'
-  public static songKey: string = 'song-of-the-day'
+  public static texture$ = 'cloud'
+  public static songKey = 'song-of-the-day'
 
   instance: Phaser.GameObjects.Container
   sprite: Phaser.GameObjects.Sprite
   textObject: Phaser.GameObjects.Text
-  text: string = "Willie's Sausage"
+  text = "Willie's Sausage"
   hoverTween: Phaser.Tweens.Tween
 
   public get isHovering(): boolean {

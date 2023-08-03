@@ -22,6 +22,7 @@ function PoetryElevator() {
       <img
         className="absolute top-2 left-2 z-10 w-[200px]"
         src={theatreSignImg}
+        alt="theatre sign"
       />
 
       <Routes>

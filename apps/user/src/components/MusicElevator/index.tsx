@@ -36,6 +36,7 @@ function MusicElevator() {
         <img
           className="absolute top-2 left-2 z-10 w-[200px]"
           src={musicSignImg}
+          alt="music sign"
         />
 
         <Routes>

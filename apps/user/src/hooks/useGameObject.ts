@@ -14,13 +14,13 @@ export function useGameObject(sceneKey: string, gameObjectKey: string) {
       const foundGameObject = scene.children.getByName(gameObjectKey)
       if (!foundGameObject) {
         throw new Error(
-          `GameObject: ${gameObjectKey} not found in scene: ${sceneKey}`,
+          `GameObject: ${gameObjectKey} not found in scene: ${sceneKey}`
         )
       }
 
       setGameObject(foundGameObject)
     })
-  }, [game])
+  }, [game, sceneKey, gameObjectKey])
 
   return { gameObject }
 }

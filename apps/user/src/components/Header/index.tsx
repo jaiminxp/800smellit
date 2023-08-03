@@ -86,7 +86,7 @@ export default function Header({
       <div className="flex justify-between z-10 w-full h-min px-10">
         {showExitBtn && (
           <button className="-mt-5" onClick={handleExit}>
-            <img className="h-[80px]" src={exitImg} />
+            <img className="h-[80px]" src={exitImg} alt="exit button" />
           </button>
         )}
 

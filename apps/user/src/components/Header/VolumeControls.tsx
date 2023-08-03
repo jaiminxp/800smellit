@@ -37,10 +37,9 @@ export default function VolumeControls({ containerStyle }: Props) {
   }
 
   useEffect(() => {
-    if (game) {
-      setVolume(game.sound.volume)
-    }
-  }, [])
+    if (!game) return
+    setVolume(game.sound.volume)
+  }, [game])
 
   return (
     <div
@@ -49,11 +48,15 @@ export default function VolumeControls({ containerStyle }: Props) {
       }`}
     >
       <button onClick={decreaseVolume}>
-        <img className="w-[40px] h-[40px]" src={volumeDown} />
+        <img className="w-[40px] h-[40px]" src={volumeDown} alt="" />
       </button>
       <VolumeBars nBars={totalBars} />
       <button className="ml-auto" onClick={increaseVolume}>
-        <img className="w-[40px] h-[40px]" src={volumeUp} />
+        <img
+          className="w-[40px] h-[40px]"
+          src={volumeUp}
+          alt="volume up button"
+        />
       </button>
     </div>
   )
@@ -64,7 +67,7 @@ function VolumeBars({ nBars }: { nBars: number }) {
     <div className="flex min-w-max gap-4">
       {new Array(nBars).fill(volumeBar).map((src) => (
         // eslint-disable-next-line react/jsx-key
-        <img className="h-[38px]" src={src} />
+        <img className="h-[38px]" src={src} alt="volume bar" />
       ))}
     </div>
   )

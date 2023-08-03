@@ -28,7 +28,7 @@ function getTableContent(
   dateIndex: number | undefined,
   linkIndex: number | undefined,
   artistLinkIndex: number | undefined,
-  artistLinkIdField: string | undefined,
+  artistLinkIdField: string | undefined
 ) {
   let fieldValue: any = null
 
@@ -51,6 +51,7 @@ function getTableContent(
         <img
           className="w-10 h-10 border-white border-2"
           src={fieldValue.toString()}
+          alt="band logo"
         />
       )
     } else if (index === dateIndex) {
@@ -121,7 +122,7 @@ export default function Table({
                   dateIndex,
                   linkIndex,
                   artistLinkIndex,
-                  artistLinkIdField,
+                  artistLinkIdField
                 )}
               </td>
             ))}

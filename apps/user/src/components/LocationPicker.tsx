@@ -36,7 +36,7 @@ const LocationPicker = ({
           marker.current.setLngLat(coordinates)
         } else {
           marker.current = new mapboxgl.Marker({ draggable: true }).setLngLat(
-            coordinates,
+            coordinates
           )
           marker.current.addTo(map.current)
         }
@@ -75,7 +75,7 @@ const LocationPicker = ({
             }
 
             marker.current = new mapboxgl.Marker({ draggable: true }).setLngLat(
-              resultCoordinates,
+              resultCoordinates
             )
 
             marker.current.on('dragend', () => {
@@ -85,7 +85,7 @@ const LocationPicker = ({
               }
             })
 
-            marker.current.addTo(map.current!)
+            map.current && marker.current.addTo(map.current)
 
             onLocate(resultCoordinates)
           })

@@ -35,12 +35,12 @@ const FeedbackModal = () => {
   }
 
   useEffect(() => {
-    if (game && suggestionBox.gameObject) {
-      suggestionBox.gameObject.on(Phaser.Input.Events.POINTER_DOWN, () =>
-        openForm(game),
-      )
-    }
-  }, [suggestionBox.gameObject])
+    if (!(game && suggestionBox.gameObject)) return
+
+    suggestionBox.gameObject.on(Phaser.Input.Events.POINTER_DOWN, () =>
+      openForm(game)
+    )
+  }, [suggestionBox, game])
 
   const sendFeedBackMutation = useMutation<
     FeedBackResponse,
@@ -53,7 +53,7 @@ const FeedbackModal = () => {
     },
     onError: (error) => {
       toast.error(
-        error.message || 'Something went wrong while sending feedback',
+        error.message || 'Something went wrong while sending feedback'
       )
     },
   })
@@ -83,7 +83,11 @@ const FeedbackModal = () => {
           className="hover:bg-orange-900 rounded-lg p-1.5 absolute top-5 right-5"
           onClick={() => closeForm(game)}
         >
-          <img className="w-5 h-5 fill-white" src={closeIcon} />
+          <img
+            alt="close icon"
+            className="w-5 h-5 fill-white"
+            src={closeIcon}
+          />
           <span className="sr-only">Close modal</span>
         </button>
 

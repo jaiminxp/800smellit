@@ -18,6 +18,7 @@ const Gallery = ({ images }: Props) => {
           onClick={() => setImage(image)}
           src={isString(image) ? image : image.url}
           className="h-[200px]"
+          alt="Gallery"
         />
       ))}
     </div>

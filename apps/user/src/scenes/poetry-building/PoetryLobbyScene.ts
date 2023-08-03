@@ -2,7 +2,7 @@ import { PoetryElevatorDoor } from '../../gameobjects/poetry-building/PoetryElev
 import { PoetryElevatorScene } from '@scenes'
 
 export default class PoetryLobbyScene extends Phaser.Scene {
-  public static sceneId: string = 'poetry-lobbyscene'
+  public static sceneId = 'poetry-lobbyscene'
   elevatorDoor: PoetryElevatorDoor
 
   constructor() {
@@ -28,13 +28,13 @@ export default class PoetryLobbyScene extends Phaser.Scene {
           if (progress === 1) {
             this.elevatorDoor.startAnim()
           }
-        },
+        }
       )
     }, 2000)
 
     this.elevatorDoor.instance.on(
       Phaser.Animations.Events.ANIMATION_COMPLETE,
-      () => this.scene.start(PoetryElevatorScene.sceneId),
+      () => this.scene.start(PoetryElevatorScene.sceneId)
     )
   }
 }

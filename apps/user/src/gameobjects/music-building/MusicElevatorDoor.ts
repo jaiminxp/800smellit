@@ -1,8 +1,8 @@
 import { MusicLobbyScene } from '@scenes'
 
 export class MusicElevatorDoor {
-  public static ATLAS_TEXTURE: string = 'ELEVATOR_DOOR'
-  public static FRAME: string = 'elevator-door-1.png'
+  public static ATLAS_TEXTURE = 'ELEVATOR_DOOR'
+  public static FRAME = 'elevator-door-1.png'
   coordinates = { x: 1042, y: 560 }
 
   instance: Phaser.GameObjects.Sprite
@@ -12,7 +12,7 @@ export class MusicElevatorDoor {
       this.coordinates.x,
       this.coordinates.y,
       MusicElevatorDoor.ATLAS_TEXTURE,
-      MusicElevatorDoor.FRAME,
+      MusicElevatorDoor.FRAME
     )
 
     this.createMask()
@@ -25,7 +25,7 @@ export class MusicElevatorDoor {
         this.coordinates.x - this.instance.width / 2,
         this.coordinates.y - this.instance.height / 2,
         this.instance.width,
-        this.instance.height,
+        this.instance.height
       )
 
     const mask = rect.createGeometryMask()
@@ -43,7 +43,7 @@ export class MusicElevatorDoor {
           end: 125,
           prefix: 'elevator-door-',
           suffix: '.png',
-        },
+        }
       ),
       frameRate: 30,
     })

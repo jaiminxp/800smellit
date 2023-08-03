@@ -6,11 +6,10 @@ export function useScene(sceneKey: string) {
   const { game } = useContext(GameContext)
 
   useEffect(() => {
-    if (game) {
-      const scene = game.scene.getScene(sceneKey)
-      setScene(scene)
-    }
-  }, [game])
+    if (!game) return
+    const scene = game.scene.getScene(sceneKey)
+    setScene(scene)
+  }, [game, sceneKey])
 
   return scene
 }

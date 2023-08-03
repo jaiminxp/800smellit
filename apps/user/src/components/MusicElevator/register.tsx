@@ -48,7 +48,7 @@ function Register() {
     error: suggestionError,
     isLoading: isLoadingSuggestions,
   } = useQuery([`musicians/strays/autocomplete?query=${query}`], () =>
-    musicianService.strayAutocomplete(query),
+    musicianService.strayAutocomplete(query)
   )
 
   if (suggestionError) {
@@ -61,11 +61,6 @@ function Register() {
   const user = useContext(AuthContext)
   const authDispatch = useContext(AuthDispatchContext)
   const queryClient = useQueryClient()
-
-  if (!user) {
-    toast.info('Please login to register as a musician!')
-    return <Navigate to={'/'} />
-  }
 
   const createMusicianMutation = useMutation<
     CreateMusicianResponse,
@@ -101,10 +96,15 @@ function Register() {
         })
 
       toast.error(
-        error.message || 'Something went wrong while creating musician',
+        error.message || 'Something went wrong while creating musician'
       )
     },
   })
+
+  if (!user) {
+    toast.info('Please login to register as a musician!')
+    return <Navigate to={'/'} />
+  }
 
   const handleEditMember = (e: Member, i: number) => {
     setSelectedItemIndex(i)
