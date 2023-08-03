@@ -1,0 +1,13 @@
+{
+  "name": "@800smellit-nx/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/workspace": "16.6.0",
+    "nx": "16.6.0",
+    "nx-cloud": "latest"
+  }
+}
