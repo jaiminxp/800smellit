@@ -1,0 +1,2640 @@
+{
+  "frames": [
+    {
+      "filename": "elevator-door-1.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 187,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-10.png",
+      "frame": {
+        "x": 190,
+        "y": 1,
+        "w": 201,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 201,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-100.png",
+      "frame": {
+        "x": 393,
+        "y": 1,
+        "w": 338,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 338,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 338,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-101.png",
+      "frame": {
+        "x": 733,
+        "y": 1,
+        "w": 340,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 340,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 340,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-102.png",
+      "frame": {
+        "x": 1075,
+        "y": 1,
+        "w": 342,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-103.png",
+      "frame": {
+        "x": 1419,
+        "y": 1,
+        "w": 343,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 343,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 343,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-104.png",
+      "frame": {
+        "x": 1764,
+        "y": 1,
+        "w": 344,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 344,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 344,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-105.png",
+      "frame": {
+        "x": 2110,
+        "y": 1,
+        "w": 346,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 346,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 346,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-106.png",
+      "frame": {
+        "x": 2458,
+        "y": 1,
+        "w": 347,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-107.png",
+      "frame": {
+        "x": 2807,
+        "y": 1,
+        "w": 349,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 349,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 349,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-108.png",
+      "frame": {
+        "x": 1,
+        "y": 296,
+        "w": 351,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 351,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 351,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-109.png",
+      "frame": {
+        "x": 354,
+        "y": 296,
+        "w": 352,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 352,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-11.png",
+      "frame": {
+        "x": 708,
+        "y": 296,
+        "w": 202,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 202,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-110.png",
+      "frame": {
+        "x": 912,
+        "y": 296,
+        "w": 353,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 353,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 353,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-111.png",
+      "frame": {
+        "x": 1267,
+        "y": 296,
+        "w": 355,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 355,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 355,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-112.png",
+      "frame": {
+        "x": 1624,
+        "y": 296,
+        "w": 357,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 357,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 357,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-113.png",
+      "frame": {
+        "x": 1983,
+        "y": 296,
+        "w": 359,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 359,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-114.png",
+      "frame": {
+        "x": 2344,
+        "y": 296,
+        "w": 359,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 359,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 359,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-115.png",
+      "frame": {
+        "x": 2705,
+        "y": 296,
+        "w": 361,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 361,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 361,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-116.png",
+      "frame": {
+        "x": 1,
+        "y": 591,
+        "w": 363,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 363,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 363,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-117.png",
+      "frame": {
+        "x": 366,
+        "y": 591,
+        "w": 364,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 364,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-118.png",
+      "frame": {
+        "x": 732,
+        "y": 591,
+        "w": 366,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 366,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 366,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-119.png",
+      "frame": {
+        "x": 1100,
+        "y": 591,
+        "w": 367,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 367,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 367,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-12.png",
+      "frame": {
+        "x": 1469,
+        "y": 591,
+        "w": 204,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 204,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-120.png",
+      "frame": {
+        "x": 1675,
+        "y": 591,
+        "w": 369,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 369,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 369,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-121.png",
+      "frame": {
+        "x": 2046,
+        "y": 591,
+        "w": 370,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 370,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 370,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-122.png",
+      "frame": {
+        "x": 2418,
+        "y": 591,
+        "w": 372,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 372,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 372,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-123.png",
+      "frame": {
+        "x": 2792,
+        "y": 591,
+        "w": 374,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 374,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 374,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-124.png",
+      "frame": {
+        "x": 1,
+        "y": 886,
+        "w": 375,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 375,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-125.png",
+      "frame": {
+        "x": 378,
+        "y": 886,
+        "w": 376,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 376,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 376,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-13.png",
+      "frame": {
+        "x": 756,
+        "y": 886,
+        "w": 206,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-14.png",
+      "frame": {
+        "x": 964,
+        "y": 886,
+        "w": 206,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-15.png",
+      "frame": {
+        "x": 1172,
+        "y": 886,
+        "w": 208,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-16.png",
+      "frame": {
+        "x": 1382,
+        "y": 886,
+        "w": 210,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 210,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-17.png",
+      "frame": {
+        "x": 1594,
+        "y": 886,
+        "w": 212,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 212,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-18.png",
+      "frame": {
+        "x": 1808,
+        "y": 886,
+        "w": 213,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-19.png",
+      "frame": {
+        "x": 2023,
+        "y": 886,
+        "w": 214,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-2.png",
+      "frame": {
+        "x": 2239,
+        "y": 886,
+        "w": 189,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-20.png",
+      "frame": {
+        "x": 2430,
+        "y": 886,
+        "w": 216,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-21.png",
+      "frame": {
+        "x": 2648,
+        "y": 886,
+        "w": 218,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 218,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-22.png",
+      "frame": {
+        "x": 2868,
+        "y": 886,
+        "w": 219,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 219,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-23.png",
+      "frame": {
+        "x": 1,
+        "y": 1181,
+        "w": 221,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 221,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 221,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-24.png",
+      "frame": {
+        "x": 224,
+        "y": 1181,
+        "w": 222,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 222,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 222,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-25.png",
+      "frame": {
+        "x": 448,
+        "y": 1181,
+        "w": 223,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 223,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 223,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-26.png",
+      "frame": {
+        "x": 673,
+        "y": 1181,
+        "w": 225,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 225,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 225,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-27.png",
+      "frame": {
+        "x": 900,
+        "y": 1181,
+        "w": 227,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-28.png",
+      "frame": {
+        "x": 1129,
+        "y": 1181,
+        "w": 229,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-29.png",
+      "frame": {
+        "x": 1360,
+        "y": 1181,
+        "w": 229,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-3.png",
+      "frame": {
+        "x": 1591,
+        "y": 1181,
+        "w": 190,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 190,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-30.png",
+      "frame": {
+        "x": 1783,
+        "y": 1181,
+        "w": 231,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 231,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 231,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-31.png",
+      "frame": {
+        "x": 2016,
+        "y": 1181,
+        "w": 233,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-32.png",
+      "frame": {
+        "x": 2251,
+        "y": 1181,
+        "w": 235,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 235,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 235,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-33.png",
+      "frame": {
+        "x": 2488,
+        "y": 1181,
+        "w": 236,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-34.png",
+      "frame": {
+        "x": 2726,
+        "y": 1181,
+        "w": 237,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 237,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 237,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-35.png",
+      "frame": {
+        "x": 2965,
+        "y": 1181,
+        "w": 239,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 239,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 239,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-36.png",
+      "frame": {
+        "x": 1,
+        "y": 1476,
+        "w": 240,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-37.png",
+      "frame": {
+        "x": 243,
+        "y": 1476,
+        "w": 242,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 242,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 242,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-38.png",
+      "frame": {
+        "x": 487,
+        "y": 1476,
+        "w": 244,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 244,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-39.png",
+      "frame": {
+        "x": 733,
+        "y": 1476,
+        "w": 245,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 245,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 245,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-4.png",
+      "frame": {
+        "x": 980,
+        "y": 1476,
+        "w": 191,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 191,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-40.png",
+      "frame": {
+        "x": 1173,
+        "y": 1476,
+        "w": 246,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 246,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-41.png",
+      "frame": {
+        "x": 1421,
+        "y": 1476,
+        "w": 248,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 248,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-42.png",
+      "frame": {
+        "x": 1671,
+        "y": 1476,
+        "w": 250,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 250,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-43.png",
+      "frame": {
+        "x": 1923,
+        "y": 1476,
+        "w": 252,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 252,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 252,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-44.png",
+      "frame": {
+        "x": 2177,
+        "y": 1476,
+        "w": 252,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 252,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 252,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-45.png",
+      "frame": {
+        "x": 2431,
+        "y": 1476,
+        "w": 254,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 254,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 254,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-46.png",
+      "frame": {
+        "x": 2687,
+        "y": 1476,
+        "w": 256,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-47.png",
+      "frame": {
+        "x": 2945,
+        "y": 1476,
+        "w": 257,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 257,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-48.png",
+      "frame": {
+        "x": 1,
+        "y": 1771,
+        "w": 259,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 259,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 259,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-49.png",
+      "frame": {
+        "x": 262,
+        "y": 1771,
+        "w": 260,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-5.png",
+      "frame": {
+        "x": 524,
+        "y": 1771,
+        "w": 193,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 193,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-50.png",
+      "frame": {
+        "x": 719,
+        "y": 1771,
+        "w": 262,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 262,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 262,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-51.png",
+      "frame": {
+        "x": 983,
+        "y": 1771,
+        "w": 263,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-52.png",
+      "frame": {
+        "x": 1248,
+        "y": 1771,
+        "w": 265,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 265,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 265,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-53.png",
+      "frame": {
+        "x": 1515,
+        "y": 1771,
+        "w": 267,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 267,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 267,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-54.png",
+      "frame": {
+        "x": 1784,
+        "y": 1771,
+        "w": 268,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 268,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-55.png",
+      "frame": {
+        "x": 2054,
+        "y": 1771,
+        "w": 269,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 269,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 269,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-56.png",
+      "frame": {
+        "x": 2325,
+        "y": 1771,
+        "w": 271,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-57.png",
+      "frame": {
+        "x": 2598,
+        "y": 1771,
+        "w": 273,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 273,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 273,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-58.png",
+      "frame": {
+        "x": 2873,
+        "y": 1771,
+        "w": 274,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 274,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 274,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-59.png",
+      "frame": {
+        "x": 1,
+        "y": 2066,
+        "w": 275,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-6.png",
+      "frame": {
+        "x": 278,
+        "y": 2066,
+        "w": 195,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-60.png",
+      "frame": {
+        "x": 475,
+        "y": 2066,
+        "w": 277,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 277,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 277,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-61.png",
+      "frame": {
+        "x": 754,
+        "y": 2066,
+        "w": 279,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 279,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-62.png",
+      "frame": {
+        "x": 1035,
+        "y": 2066,
+        "w": 280,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 280,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-63.png",
+      "frame": {
+        "x": 1317,
+        "y": 2066,
+        "w": 282,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 282,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-64.png",
+      "frame": {
+        "x": 1601,
+        "y": 2066,
+        "w": 283,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 283,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 283,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-65.png",
+      "frame": {
+        "x": 1886,
+        "y": 2066,
+        "w": 285,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-66.png",
+      "frame": {
+        "x": 2173,
+        "y": 2066,
+        "w": 286,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 286,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 286,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-67.png",
+      "frame": {
+        "x": 2461,
+        "y": 2066,
+        "w": 288,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-68.png",
+      "frame": {
+        "x": 2751,
+        "y": 2066,
+        "w": 290,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-69.png",
+      "frame": {
+        "x": 1,
+        "y": 2361,
+        "w": 290,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-7.png",
+      "frame": {
+        "x": 293,
+        "y": 2361,
+        "w": 196,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-70.png",
+      "frame": {
+        "x": 491,
+        "y": 2361,
+        "w": 292,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 292,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-71.png",
+      "frame": {
+        "x": 785,
+        "y": 2361,
+        "w": 294,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 294,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 294,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-72.png",
+      "frame": {
+        "x": 1081,
+        "y": 2361,
+        "w": 296,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 296,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-73.png",
+      "frame": {
+        "x": 1379,
+        "y": 2361,
+        "w": 297,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 297,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 297,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-74.png",
+      "frame": {
+        "x": 1678,
+        "y": 2361,
+        "w": 298,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 298,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-75.png",
+      "frame": {
+        "x": 1978,
+        "y": 2361,
+        "w": 300,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-76.png",
+      "frame": {
+        "x": 2280,
+        "y": 2361,
+        "w": 302,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 302,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 302,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-77.png",
+      "frame": {
+        "x": 2584,
+        "y": 2361,
+        "w": 303,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 303,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-78.png",
+      "frame": {
+        "x": 2889,
+        "y": 2361,
+        "w": 305,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 305,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 305,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-79.png",
+      "frame": {
+        "x": 1,
+        "y": 2656,
+        "w": 306,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 306,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 306,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-8.png",
+      "frame": {
+        "x": 309,
+        "y": 2656,
+        "w": 198,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-80.png",
+      "frame": {
+        "x": 509,
+        "y": 2656,
+        "w": 307,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 307,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-81.png",
+      "frame": {
+        "x": 818,
+        "y": 2656,
+        "w": 309,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 309,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 309,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-82.png",
+      "frame": {
+        "x": 1129,
+        "y": 2656,
+        "w": 311,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-83.png",
+      "frame": {
+        "x": 1442,
+        "y": 2656,
+        "w": 313,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 313,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-84.png",
+      "frame": {
+        "x": 1757,
+        "y": 2656,
+        "w": 313,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 313,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-85.png",
+      "frame": {
+        "x": 2072,
+        "y": 2656,
+        "w": 315,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 315,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 315,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-86.png",
+      "frame": {
+        "x": 2389,
+        "y": 2656,
+        "w": 317,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-87.png",
+      "frame": {
+        "x": 2708,
+        "y": 2656,
+        "w": 319,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 319,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-88.png",
+      "frame": {
+        "x": 3158,
+        "y": 1,
+        "w": 320,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-89.png",
+      "frame": {
+        "x": 3068,
+        "y": 296,
+        "w": 321,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 321,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 321,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-9.png",
+      "frame": {
+        "x": 3168,
+        "y": 591,
+        "w": 199,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-90.png",
+      "frame": {
+        "x": 3089,
+        "y": 886,
+        "w": 323,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 323,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 323,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-91.png",
+      "frame": {
+        "x": 3206,
+        "y": 1181,
+        "w": 325,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 325,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 325,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-92.png",
+      "frame": {
+        "x": 3204,
+        "y": 1476,
+        "w": 326,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 326,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 326,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-93.png",
+      "frame": {
+        "x": 3149,
+        "y": 1771,
+        "w": 328,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 328,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-94.png",
+      "frame": {
+        "x": 3043,
+        "y": 2066,
+        "w": 329,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 329,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 329,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-95.png",
+      "frame": {
+        "x": 3196,
+        "y": 2361,
+        "w": 330,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 330,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 330,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-96.png",
+      "frame": {
+        "x": 3029,
+        "y": 2656,
+        "w": 332,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 332,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-97.png",
+      "frame": {
+        "x": 1,
+        "y": 2951,
+        "w": 334,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 334,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 334,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-98.png",
+      "frame": {
+        "x": 337,
+        "y": 2951,
+        "w": 336,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 336,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 336,
+        "h": 293
+      }
+    },
+    {
+      "filename": "elevator-door-99.png",
+      "frame": {
+        "x": 675,
+        "y": 2951,
+        "w": 336,
+        "h": 293
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 336,
+        "h": 293
+      },
+      "sourceSize": {
+        "w": 336,
+        "h": 293
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3532,
+      "h": 3245
+    },
+    "scale": "1"
+  }
+}

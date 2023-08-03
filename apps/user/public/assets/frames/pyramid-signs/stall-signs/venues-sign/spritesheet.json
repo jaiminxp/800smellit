@@ -1,0 +1,876 @@
+{
+  "frames": [
+    {
+      "filename": "venues-stall-sign-1.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-10.png",
+      "frame": {
+        "x": 163,
+        "y": 1,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-11.png",
+      "frame": {
+        "x": 325,
+        "y": 1,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-12.png",
+      "frame": {
+        "x": 487,
+        "y": 1,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-13.png",
+      "frame": {
+        "x": 649,
+        "y": 1,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-14.png",
+      "frame": {
+        "x": 1,
+        "y": 111,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-15.png",
+      "frame": {
+        "x": 163,
+        "y": 111,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-16.png",
+      "frame": {
+        "x": 325,
+        "y": 111,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-17.png",
+      "frame": {
+        "x": 487,
+        "y": 111,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-18.png",
+      "frame": {
+        "x": 649,
+        "y": 111,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-19.png",
+      "frame": {
+        "x": 1,
+        "y": 221,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-2.png",
+      "frame": {
+        "x": 163,
+        "y": 221,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-20.png",
+      "frame": {
+        "x": 325,
+        "y": 221,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-21.png",
+      "frame": {
+        "x": 487,
+        "y": 221,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-22.png",
+      "frame": {
+        "x": 649,
+        "y": 221,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-23.png",
+      "frame": {
+        "x": 1,
+        "y": 331,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-24.png",
+      "frame": {
+        "x": 163,
+        "y": 331,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-25.png",
+      "frame": {
+        "x": 325,
+        "y": 331,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-26.png",
+      "frame": {
+        "x": 487,
+        "y": 331,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-27.png",
+      "frame": {
+        "x": 649,
+        "y": 331,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-28.png",
+      "frame": {
+        "x": 1,
+        "y": 441,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-29.png",
+      "frame": {
+        "x": 163,
+        "y": 441,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-3.png",
+      "frame": {
+        "x": 325,
+        "y": 441,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-30.png",
+      "frame": {
+        "x": 487,
+        "y": 441,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-31.png",
+      "frame": {
+        "x": 649,
+        "y": 441,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-32.png",
+      "frame": {
+        "x": 1,
+        "y": 551,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-33.png",
+      "frame": {
+        "x": 163,
+        "y": 551,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-34.png",
+      "frame": {
+        "x": 325,
+        "y": 551,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-35.png",
+      "frame": {
+        "x": 487,
+        "y": 551,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-36.png",
+      "frame": {
+        "x": 649,
+        "y": 551,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-37.png",
+      "frame": {
+        "x": 1,
+        "y": 661,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-38.png",
+      "frame": {
+        "x": 163,
+        "y": 661,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-39.png",
+      "frame": {
+        "x": 325,
+        "y": 661,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-4.png",
+      "frame": {
+        "x": 487,
+        "y": 661,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-40.png",
+      "frame": {
+        "x": 649,
+        "y": 661,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-41.png",
+      "frame": {
+        "x": 811,
+        "y": 1,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-5.png",
+      "frame": {
+        "x": 811,
+        "y": 111,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-6.png",
+      "frame": {
+        "x": 811,
+        "y": 221,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-7.png",
+      "frame": {
+        "x": 811,
+        "y": 331,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-8.png",
+      "frame": {
+        "x": 811,
+        "y": 441,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    },
+    {
+      "filename": "venues-stall-sign-9.png",
+      "frame": {
+        "x": 811,
+        "y": 551,
+        "w": 160,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 108
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 972,
+      "h": 770
+    },
+    "scale": "1"
+  }
+}

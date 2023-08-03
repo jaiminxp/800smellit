@@ -1,4 +1,249 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* You can add global styles to this file, and also import other style files */
+
+/* fonts */
+@font-face {
+  font-family: Furore;
+  src: url('./assets/fonts/Furore.woff2') format('woff2'),
+    url('./assets/fonts/Furore.woff') format('woff');
+}
+
+@font-face {
+  font-family: Economica Regular;
+  src: url('./assets/fonts/Economica-Regular.woff2') format('woff2'),
+    url('./assets/fonts/Economica-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: Galada Regular;
+  src: url('./assets/fonts/Galada-Regular.woff2') format('woff2'),
+    url('./assets/fonts/Galada-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: Forty Second Street;
+  src: url('./assets/fonts/FortySecondStreetHB.woff2') format('woff2'),
+    url('./assets/fonts/FortySecondStreetHB.woff') format('woff');
+}
+
+#scene-container > canvas {
+  background-color: blue;
+  height: 100vh;
+  width: 100vw !important;
+}
+
+@layer base {
+  body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'furore' !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+  /* buttons */
+  button {
+    @apply transition-transform;
+  }
+
+  button:hover {
+    transform: scale(1.08);
+  }
+
+  /* buttons */
+  button:active {
+    transform: scale(1);
+  }
+
+  input,
+  select,
+  textarea {
+    @apply text-white;
+  }
+
+  option {
+    @apply text-black;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    color: white;
+    width: 197px;
+    height: 44px;
+    background: url('./assets/button.png');
+    background-repeat: no-repeat;
+    border: none;
+  }
+
+  .btn-secondary {
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid gray;
+  }
+
+  .btn-danger {
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    background-color: #dc3545;
+    color: white;
+    border: 2px solid #b21f2d;
+  }
+
+  .form-control {
+    @apply bg-gradient-to-r from-black to-gray-700 p-1.5 rounded-[10px] border-none;
+  }
+
+  .icon path {
+    fill: white;
+  }
+
+  .slide-anim-1 {
+    animation-duration: 6s;
+    animation-name: slide-1;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+
+  @keyframes slide-1 {
+    from {
+      left: 10%;
+    }
+
+    to {
+      left: 70%;
+    }
+  }
+
+  .slide-anim-2 {
+    animation-duration: 6s;
+    animation-name: slide-2;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+
+  @keyframes slide-2 {
+    from {
+      left: 0%;
+    }
+
+    to {
+      left: 80%;
+    }
+  }
+
+  .marquee p {
+    animation: marquee 25s linear infinite;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+  .err-msg {
+    @apply text-red-500 bg-black px-2 text-sm max-w-max;
+  }
+
+  .link {
+    @apply text-blue-600 underline hover:text-white;
+  }
+
+  .debug-border {
+    border: 1px solid red;
+  }
+
+  .expand {
+    transition: height 0.4s;
+  }
+
+  .glow-container:hover .glow-text {
+    text-shadow: 0px 0px 10px currentColor;
+  }
+
+  .glow-container:hover .glow-filter {
+    filter: drop-shadow(0 0 20px white);
+  }
+
+  .clickable {
+    transition: transform 0.2s;
+  }
+
+  .clickable:hover {
+    transform: scale(1.05);
+  }
+
+  .clickable:focus:active {
+    transform: scale(1);
+  }
+
+  .small-btn .btn-primary {
+    width: 150px;
+    height: 33px;
+    background-size: cover;
+    font-size: 0.75rem;
+  }
+}
+
+@layer utilities {
+  .bg-gray-gradient {
+    @apply bg-gradient-to-r from-black to-gray-700;
+  }
+
+  .bg-profile {
+    background: url('./assets/profile-bg.png');
+  }
+
+  .bg-music-buttons-panel {
+    background: url('./assets/music-elevator-buttons-panel.jpg');
+  }
+
+  .bg-art-buttons-panel {
+    background: url('./assets/art-buttons-panel.png');
+  }
+
+  .bg-poetry-buttons-panel {
+    background: url('./assets/poetry-elevator-buttons-panel.png');
+  }
+
+  .bg-music-elevator-ui {
+    background: url('./assets/music-elevator-ui-bg.png');
+  }
+
+  .bg-art-elevator-ui {
+    background: url('./assets/art-elevator-ui-bg.png');
+  }
+
+  .bg-poetry-elevator-ui {
+    background: url('./assets/poetry-elevator-ui-bg.png');
+  }
+
+  .bg-full {
+    background-size: 100% 100%;
+  }
+
+  .bg-button {
+    background: url('./assets/button.png');
+  }
+
+  .required-label {
+    @apply text-[#FF0000];
+  }
+
+  .btn-disabled {
+    @apply opacity-50 cursor-not-allowed;
+  }
+}

@@ -1,0 +1,2346 @@
+{
+  "frames": [
+    {
+      "filename": "theatre-sign-1.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-10.png",
+      "frame": {
+        "x": 966,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-100.png",
+      "frame": {
+        "x": 1931,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-101.png",
+      "frame": {
+        "x": 2896,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-102.png",
+      "frame": {
+        "x": 3861,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-103.png",
+      "frame": {
+        "x": 4826,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-104.png",
+      "frame": {
+        "x": 5791,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-105.png",
+      "frame": {
+        "x": 1,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-106.png",
+      "frame": {
+        "x": 966,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-107.png",
+      "frame": {
+        "x": 1931,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-108.png",
+      "frame": {
+        "x": 2896,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-109.png",
+      "frame": {
+        "x": 3861,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-11.png",
+      "frame": {
+        "x": 4826,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-110.png",
+      "frame": {
+        "x": 5791,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-111.png",
+      "frame": {
+        "x": 1,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-12.png",
+      "frame": {
+        "x": 966,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-13.png",
+      "frame": {
+        "x": 1931,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-14.png",
+      "frame": {
+        "x": 2896,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-15.png",
+      "frame": {
+        "x": 3861,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-16.png",
+      "frame": {
+        "x": 4826,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-17.png",
+      "frame": {
+        "x": 5791,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-18.png",
+      "frame": {
+        "x": 1,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-19.png",
+      "frame": {
+        "x": 966,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-2.png",
+      "frame": {
+        "x": 1931,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-20.png",
+      "frame": {
+        "x": 2896,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-21.png",
+      "frame": {
+        "x": 3861,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-22.png",
+      "frame": {
+        "x": 4826,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-23.png",
+      "frame": {
+        "x": 5791,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-24.png",
+      "frame": {
+        "x": 1,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-25.png",
+      "frame": {
+        "x": 966,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-26.png",
+      "frame": {
+        "x": 1931,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-27.png",
+      "frame": {
+        "x": 2896,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-28.png",
+      "frame": {
+        "x": 3861,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-29.png",
+      "frame": {
+        "x": 4826,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-3.png",
+      "frame": {
+        "x": 5791,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-30.png",
+      "frame": {
+        "x": 1,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-31.png",
+      "frame": {
+        "x": 966,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-32.png",
+      "frame": {
+        "x": 1931,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-33.png",
+      "frame": {
+        "x": 2896,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-34.png",
+      "frame": {
+        "x": 3861,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-35.png",
+      "frame": {
+        "x": 4826,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-36.png",
+      "frame": {
+        "x": 5791,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-37.png",
+      "frame": {
+        "x": 1,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-38.png",
+      "frame": {
+        "x": 966,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-39.png",
+      "frame": {
+        "x": 1931,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-4.png",
+      "frame": {
+        "x": 2896,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-40.png",
+      "frame": {
+        "x": 3861,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-41.png",
+      "frame": {
+        "x": 4826,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-42.png",
+      "frame": {
+        "x": 5791,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-43.png",
+      "frame": {
+        "x": 1,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-44.png",
+      "frame": {
+        "x": 966,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-45.png",
+      "frame": {
+        "x": 1931,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-46.png",
+      "frame": {
+        "x": 2896,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-47.png",
+      "frame": {
+        "x": 3861,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-48.png",
+      "frame": {
+        "x": 4826,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-49.png",
+      "frame": {
+        "x": 5791,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-5.png",
+      "frame": {
+        "x": 1,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-50.png",
+      "frame": {
+        "x": 966,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-51.png",
+      "frame": {
+        "x": 1931,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-52.png",
+      "frame": {
+        "x": 2896,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-53.png",
+      "frame": {
+        "x": 3861,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-54.png",
+      "frame": {
+        "x": 4826,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-55.png",
+      "frame": {
+        "x": 5791,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-56.png",
+      "frame": {
+        "x": 1,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-57.png",
+      "frame": {
+        "x": 966,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-58.png",
+      "frame": {
+        "x": 1931,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-59.png",
+      "frame": {
+        "x": 2896,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-6.png",
+      "frame": {
+        "x": 3861,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-60.png",
+      "frame": {
+        "x": 4826,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-61.png",
+      "frame": {
+        "x": 5791,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-62.png",
+      "frame": {
+        "x": 1,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-63.png",
+      "frame": {
+        "x": 966,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-64.png",
+      "frame": {
+        "x": 1931,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-65.png",
+      "frame": {
+        "x": 2896,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-66.png",
+      "frame": {
+        "x": 3861,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-67.png",
+      "frame": {
+        "x": 4826,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-68.png",
+      "frame": {
+        "x": 5791,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-69.png",
+      "frame": {
+        "x": 1,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-7.png",
+      "frame": {
+        "x": 966,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-70.png",
+      "frame": {
+        "x": 1931,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-71.png",
+      "frame": {
+        "x": 2896,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-72.png",
+      "frame": {
+        "x": 3861,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-73.png",
+      "frame": {
+        "x": 4826,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-74.png",
+      "frame": {
+        "x": 5791,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-75.png",
+      "frame": {
+        "x": 1,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-76.png",
+      "frame": {
+        "x": 966,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-77.png",
+      "frame": {
+        "x": 1931,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-78.png",
+      "frame": {
+        "x": 2896,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-79.png",
+      "frame": {
+        "x": 3861,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-8.png",
+      "frame": {
+        "x": 4826,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-80.png",
+      "frame": {
+        "x": 5791,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-81.png",
+      "frame": {
+        "x": 1,
+        "y": 6319,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-82.png",
+      "frame": {
+        "x": 966,
+        "y": 6319,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-83.png",
+      "frame": {
+        "x": 1931,
+        "y": 6319,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-84.png",
+      "frame": {
+        "x": 2896,
+        "y": 6319,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-85.png",
+      "frame": {
+        "x": 3861,
+        "y": 6319,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-86.png",
+      "frame": {
+        "x": 4826,
+        "y": 6319,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-87.png",
+      "frame": {
+        "x": 5791,
+        "y": 6319,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-88.png",
+      "frame": {
+        "x": 6756,
+        "y": 1,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-89.png",
+      "frame": {
+        "x": 6756,
+        "y": 487,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-9.png",
+      "frame": {
+        "x": 6756,
+        "y": 973,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-90.png",
+      "frame": {
+        "x": 6756,
+        "y": 1459,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-91.png",
+      "frame": {
+        "x": 6756,
+        "y": 1945,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-92.png",
+      "frame": {
+        "x": 6756,
+        "y": 2431,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-93.png",
+      "frame": {
+        "x": 6756,
+        "y": 2917,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-94.png",
+      "frame": {
+        "x": 6756,
+        "y": 3403,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-95.png",
+      "frame": {
+        "x": 6756,
+        "y": 3889,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-96.png",
+      "frame": {
+        "x": 6756,
+        "y": 4375,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-97.png",
+      "frame": {
+        "x": 6756,
+        "y": 4861,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-98.png",
+      "frame": {
+        "x": 6756,
+        "y": 5347,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    },
+    {
+      "filename": "theatre-sign-99.png",
+      "frame": {
+        "x": 6756,
+        "y": 5833,
+        "w": 963,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 963,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 963,
+        "h": 484
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 7720,
+      "h": 6804
+    },
+    "scale": "1"
+  }
+}

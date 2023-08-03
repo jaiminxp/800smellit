@@ -1,0 +1,351 @@
+{
+  "frames": [
+    {
+      "filename": "hand (10).png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (11).png",
+      "frame": {
+        "x": 415,
+        "y": 1,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (12).png",
+      "frame": {
+        "x": 829,
+        "y": 1,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (13).png",
+      "frame": {
+        "x": 1243,
+        "y": 1,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (14).png",
+      "frame": {
+        "x": 1,
+        "y": 415,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (15).png",
+      "frame": {
+        "x": 415,
+        "y": 415,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (16).png",
+      "frame": {
+        "x": 829,
+        "y": 415,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (1).png",
+      "frame": {
+        "x": 1243,
+        "y": 415,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (2).png",
+      "frame": {
+        "x": 1,
+        "y": 829,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (3).png",
+      "frame": {
+        "x": 415,
+        "y": 829,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (4).png",
+      "frame": {
+        "x": 829,
+        "y": 829,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (5).png",
+      "frame": {
+        "x": 1243,
+        "y": 829,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (6).png",
+      "frame": {
+        "x": 1,
+        "y": 1243,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (7).png",
+      "frame": {
+        "x": 415,
+        "y": 1243,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (8).png",
+      "frame": {
+        "x": 829,
+        "y": 1243,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    },
+    {
+      "filename": "hand (9).png",
+      "frame": {
+        "x": 1243,
+        "y": 1243,
+        "w": 412,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 412,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 412,
+        "h": 412
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1656,
+      "h": 1656
+    },
+    "scale": "1"
+  }
+}

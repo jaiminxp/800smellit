@@ -1,0 +1,666 @@
+{
+  "frames": [
+    {
+      "filename": "buy-sell-stall-sign-1.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-10.png",
+      "frame": {
+        "x": 216,
+        "y": 1,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-11.png",
+      "frame": {
+        "x": 431,
+        "y": 1,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-12.png",
+      "frame": {
+        "x": 646,
+        "y": 1,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-13.png",
+      "frame": {
+        "x": 1,
+        "y": 133,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-14.png",
+      "frame": {
+        "x": 216,
+        "y": 133,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-15.png",
+      "frame": {
+        "x": 431,
+        "y": 133,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-16.png",
+      "frame": {
+        "x": 646,
+        "y": 133,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-17.png",
+      "frame": {
+        "x": 1,
+        "y": 265,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-18.png",
+      "frame": {
+        "x": 216,
+        "y": 265,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-19.png",
+      "frame": {
+        "x": 431,
+        "y": 265,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-2.png",
+      "frame": {
+        "x": 646,
+        "y": 265,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-20.png",
+      "frame": {
+        "x": 1,
+        "y": 397,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-21.png",
+      "frame": {
+        "x": 216,
+        "y": 397,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-22.png",
+      "frame": {
+        "x": 431,
+        "y": 397,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-23.png",
+      "frame": {
+        "x": 646,
+        "y": 397,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-24.png",
+      "frame": {
+        "x": 1,
+        "y": 529,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-25.png",
+      "frame": {
+        "x": 216,
+        "y": 529,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-26.png",
+      "frame": {
+        "x": 431,
+        "y": 529,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-27.png",
+      "frame": {
+        "x": 646,
+        "y": 529,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-28.png",
+      "frame": {
+        "x": 1,
+        "y": 661,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-29.png",
+      "frame": {
+        "x": 216,
+        "y": 661,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-3.png",
+      "frame": {
+        "x": 431,
+        "y": 661,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-30.png",
+      "frame": {
+        "x": 646,
+        "y": 661,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-31.png",
+      "frame": {
+        "x": 1,
+        "y": 793,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-4.png",
+      "frame": {
+        "x": 216,
+        "y": 793,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-5.png",
+      "frame": {
+        "x": 431,
+        "y": 793,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-6.png",
+      "frame": {
+        "x": 646,
+        "y": 793,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-7.png",
+      "frame": {
+        "x": 861,
+        "y": 1,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-8.png",
+      "frame": {
+        "x": 861,
+        "y": 133,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    },
+    {
+      "filename": "buy-sell-stall-sign-9.png",
+      "frame": {
+        "x": 861,
+        "y": 265,
+        "w": 213,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 213,
+        "h": 130
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1075,
+      "h": 924
+    },
+    "scale": "1"
+  }
+}

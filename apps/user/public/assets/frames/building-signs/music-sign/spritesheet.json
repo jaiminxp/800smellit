@@ -1,0 +1,1359 @@
+{
+	"frames": [
+		{
+			"filename": "music-sign-1.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-10.png",
+			"frame": {
+				"x": 231,
+				"y": 1,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-11.png",
+			"frame": {
+				"x": 461,
+				"y": 1,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-12.png",
+			"frame": {
+				"x": 691,
+				"y": 1,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-13.png",
+			"frame": {
+				"x": 921,
+				"y": 1,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-14.png",
+			"frame": {
+				"x": 1,
+				"y": 107,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-15.png",
+			"frame": {
+				"x": 231,
+				"y": 107,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-16.png",
+			"frame": {
+				"x": 461,
+				"y": 107,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-17.png",
+			"frame": {
+				"x": 691,
+				"y": 107,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-18.png",
+			"frame": {
+				"x": 921,
+				"y": 107,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-19.png",
+			"frame": {
+				"x": 1,
+				"y": 213,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-2.png",
+			"frame": {
+				"x": 231,
+				"y": 213,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-20.png",
+			"frame": {
+				"x": 461,
+				"y": 213,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-21.png",
+			"frame": {
+				"x": 691,
+				"y": 213,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-22.png",
+			"frame": {
+				"x": 921,
+				"y": 213,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-23.png",
+			"frame": {
+				"x": 1,
+				"y": 319,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-24.png",
+			"frame": {
+				"x": 231,
+				"y": 319,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-25.png",
+			"frame": {
+				"x": 461,
+				"y": 319,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-26.png",
+			"frame": {
+				"x": 691,
+				"y": 319,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-27.png",
+			"frame": {
+				"x": 921,
+				"y": 319,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-28.png",
+			"frame": {
+				"x": 1,
+				"y": 425,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-29.png",
+			"frame": {
+				"x": 231,
+				"y": 425,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-3.png",
+			"frame": {
+				"x": 461,
+				"y": 425,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-30.png",
+			"frame": {
+				"x": 691,
+				"y": 425,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-31.png",
+			"frame": {
+				"x": 921,
+				"y": 425,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-32.png",
+			"frame": {
+				"x": 1,
+				"y": 531,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-33.png",
+			"frame": {
+				"x": 231,
+				"y": 531,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-34.png",
+			"frame": {
+				"x": 461,
+				"y": 531,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-35.png",
+			"frame": {
+				"x": 691,
+				"y": 531,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-36.png",
+			"frame": {
+				"x": 921,
+				"y": 531,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-37.png",
+			"frame": {
+				"x": 1,
+				"y": 637,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-38.png",
+			"frame": {
+				"x": 231,
+				"y": 637,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-39.png",
+			"frame": {
+				"x": 461,
+				"y": 637,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-4.png",
+			"frame": {
+				"x": 691,
+				"y": 637,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-40.png",
+			"frame": {
+				"x": 921,
+				"y": 637,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-41.png",
+			"frame": {
+				"x": 1,
+				"y": 743,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-42.png",
+			"frame": {
+				"x": 231,
+				"y": 743,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-43.png",
+			"frame": {
+				"x": 461,
+				"y": 743,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-44.png",
+			"frame": {
+				"x": 691,
+				"y": 743,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-45.png",
+			"frame": {
+				"x": 921,
+				"y": 743,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-46.png",
+			"frame": {
+				"x": 1,
+				"y": 849,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-47.png",
+			"frame": {
+				"x": 231,
+				"y": 849,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-48.png",
+			"frame": {
+				"x": 461,
+				"y": 849,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-49.png",
+			"frame": {
+				"x": 691,
+				"y": 849,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-5.png",
+			"frame": {
+				"x": 921,
+				"y": 849,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-50.png",
+			"frame": {
+				"x": 1,
+				"y": 955,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-51.png",
+			"frame": {
+				"x": 231,
+				"y": 955,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-52.png",
+			"frame": {
+				"x": 461,
+				"y": 955,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-53.png",
+			"frame": {
+				"x": 691,
+				"y": 955,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-54.png",
+			"frame": {
+				"x": 921,
+				"y": 955,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-55.png",
+			"frame": {
+				"x": 1,
+				"y": 1061,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-56.png",
+			"frame": {
+				"x": 231,
+				"y": 1061,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-57.png",
+			"frame": {
+				"x": 461,
+				"y": 1061,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-58.png",
+			"frame": {
+				"x": 691,
+				"y": 1061,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-59.png",
+			"frame": {
+				"x": 921,
+				"y": 1061,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-6.png",
+			"frame": {
+				"x": 1151,
+				"y": 1,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-60.png",
+			"frame": {
+				"x": 1151,
+				"y": 107,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-61.png",
+			"frame": {
+				"x": 1151,
+				"y": 213,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-62.png",
+			"frame": {
+				"x": 1151,
+				"y": 319,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-63.png",
+			"frame": {
+				"x": 1151,
+				"y": 425,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-64.png",
+			"frame": {
+				"x": 1151,
+				"y": 531,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-7.png",
+			"frame": {
+				"x": 1151,
+				"y": 637,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-8.png",
+			"frame": {
+				"x": 1151,
+				"y": 743,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		},
+		{
+			"filename": "music-sign-9.png",
+			"frame": {
+				"x": 1151,
+				"y": 849,
+				"w": 228,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 228,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 228,
+				"h": 104
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1380,
+			"h": 1166
+		},
+		"scale": "1"
+	}
+}

@@ -1,0 +1,3690 @@
+{
+  "frames": [
+    {
+      "filename": "poetry-elevator-door-1.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-10.png",
+      "frame": {
+        "x": 635,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-100.png",
+      "frame": {
+        "x": 1269,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-101.png",
+      "frame": {
+        "x": 1903,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-102.png",
+      "frame": {
+        "x": 2537,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-103.png",
+      "frame": {
+        "x": 3171,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-104.png",
+      "frame": {
+        "x": 3805,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-105.png",
+      "frame": {
+        "x": 4439,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-106.png",
+      "frame": {
+        "x": 5073,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-107.png",
+      "frame": {
+        "x": 5707,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-108.png",
+      "frame": {
+        "x": 1,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-109.png",
+      "frame": {
+        "x": 635,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-11.png",
+      "frame": {
+        "x": 1269,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-110.png",
+      "frame": {
+        "x": 1903,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-111.png",
+      "frame": {
+        "x": 2537,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-112.png",
+      "frame": {
+        "x": 3171,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-113.png",
+      "frame": {
+        "x": 3805,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-114.png",
+      "frame": {
+        "x": 4439,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-115.png",
+      "frame": {
+        "x": 5073,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-116.png",
+      "frame": {
+        "x": 5707,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-117.png",
+      "frame": {
+        "x": 1,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-118.png",
+      "frame": {
+        "x": 635,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-119.png",
+      "frame": {
+        "x": 1269,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-12.png",
+      "frame": {
+        "x": 1903,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-120.png",
+      "frame": {
+        "x": 2537,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-121.png",
+      "frame": {
+        "x": 3171,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-122.png",
+      "frame": {
+        "x": 3805,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-123.png",
+      "frame": {
+        "x": 4439,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-124.png",
+      "frame": {
+        "x": 5073,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-125.png",
+      "frame": {
+        "x": 5707,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-126.png",
+      "frame": {
+        "x": 1,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-127.png",
+      "frame": {
+        "x": 635,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-128.png",
+      "frame": {
+        "x": 1269,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-129.png",
+      "frame": {
+        "x": 1903,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-13.png",
+      "frame": {
+        "x": 2537,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-130.png",
+      "frame": {
+        "x": 3171,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-131.png",
+      "frame": {
+        "x": 3805,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-132.png",
+      "frame": {
+        "x": 4439,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-133.png",
+      "frame": {
+        "x": 5073,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-134.png",
+      "frame": {
+        "x": 5707,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-135.png",
+      "frame": {
+        "x": 1,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-136.png",
+      "frame": {
+        "x": 635,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-137.png",
+      "frame": {
+        "x": 1269,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-138.png",
+      "frame": {
+        "x": 1903,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-139.png",
+      "frame": {
+        "x": 2537,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-14.png",
+      "frame": {
+        "x": 3171,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-140.png",
+      "frame": {
+        "x": 3805,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-141.png",
+      "frame": {
+        "x": 4439,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-142.png",
+      "frame": {
+        "x": 5073,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-143.png",
+      "frame": {
+        "x": 5707,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-144.png",
+      "frame": {
+        "x": 1,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-145.png",
+      "frame": {
+        "x": 635,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-146.png",
+      "frame": {
+        "x": 1269,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-147.png",
+      "frame": {
+        "x": 1903,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-148.png",
+      "frame": {
+        "x": 2537,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-149.png",
+      "frame": {
+        "x": 3171,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-15.png",
+      "frame": {
+        "x": 3805,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-150.png",
+      "frame": {
+        "x": 4439,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-151.png",
+      "frame": {
+        "x": 5073,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-152.png",
+      "frame": {
+        "x": 5707,
+        "y": 1856,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-153.png",
+      "frame": {
+        "x": 1,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-154.png",
+      "frame": {
+        "x": 635,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-155.png",
+      "frame": {
+        "x": 1269,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-156.png",
+      "frame": {
+        "x": 1903,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-157.png",
+      "frame": {
+        "x": 2537,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-158.png",
+      "frame": {
+        "x": 3171,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-159.png",
+      "frame": {
+        "x": 3805,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-16.png",
+      "frame": {
+        "x": 4439,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-160.png",
+      "frame": {
+        "x": 5073,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-161.png",
+      "frame": {
+        "x": 5707,
+        "y": 2227,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-162.png",
+      "frame": {
+        "x": 1,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-163.png",
+      "frame": {
+        "x": 635,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-164.png",
+      "frame": {
+        "x": 1269,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-165.png",
+      "frame": {
+        "x": 1903,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-166.png",
+      "frame": {
+        "x": 2537,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-167.png",
+      "frame": {
+        "x": 3171,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-168.png",
+      "frame": {
+        "x": 3805,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-169.png",
+      "frame": {
+        "x": 4439,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-17.png",
+      "frame": {
+        "x": 5073,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-170.png",
+      "frame": {
+        "x": 5707,
+        "y": 2598,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-171.png",
+      "frame": {
+        "x": 1,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-172.png",
+      "frame": {
+        "x": 635,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-173.png",
+      "frame": {
+        "x": 1269,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-174.png",
+      "frame": {
+        "x": 1903,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-175.png",
+      "frame": {
+        "x": 2537,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-18.png",
+      "frame": {
+        "x": 3171,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-19.png",
+      "frame": {
+        "x": 3805,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-2.png",
+      "frame": {
+        "x": 4439,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-20.png",
+      "frame": {
+        "x": 5073,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-21.png",
+      "frame": {
+        "x": 5707,
+        "y": 2969,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-22.png",
+      "frame": {
+        "x": 1,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-23.png",
+      "frame": {
+        "x": 635,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-24.png",
+      "frame": {
+        "x": 1269,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-25.png",
+      "frame": {
+        "x": 1903,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-26.png",
+      "frame": {
+        "x": 2537,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-27.png",
+      "frame": {
+        "x": 3171,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-28.png",
+      "frame": {
+        "x": 3805,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-29.png",
+      "frame": {
+        "x": 4439,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-3.png",
+      "frame": {
+        "x": 5073,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-30.png",
+      "frame": {
+        "x": 5707,
+        "y": 3340,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-31.png",
+      "frame": {
+        "x": 1,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-32.png",
+      "frame": {
+        "x": 635,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-33.png",
+      "frame": {
+        "x": 1269,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-34.png",
+      "frame": {
+        "x": 1903,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-35.png",
+      "frame": {
+        "x": 2537,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-36.png",
+      "frame": {
+        "x": 3171,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-37.png",
+      "frame": {
+        "x": 3805,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-38.png",
+      "frame": {
+        "x": 4439,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-39.png",
+      "frame": {
+        "x": 5073,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-4.png",
+      "frame": {
+        "x": 5707,
+        "y": 3711,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-40.png",
+      "frame": {
+        "x": 1,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-41.png",
+      "frame": {
+        "x": 635,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-42.png",
+      "frame": {
+        "x": 1269,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-43.png",
+      "frame": {
+        "x": 1903,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-44.png",
+      "frame": {
+        "x": 2537,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-45.png",
+      "frame": {
+        "x": 3171,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-46.png",
+      "frame": {
+        "x": 3805,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-47.png",
+      "frame": {
+        "x": 4439,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-48.png",
+      "frame": {
+        "x": 5073,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-49.png",
+      "frame": {
+        "x": 5707,
+        "y": 4082,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-5.png",
+      "frame": {
+        "x": 1,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-50.png",
+      "frame": {
+        "x": 635,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-51.png",
+      "frame": {
+        "x": 1269,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-52.png",
+      "frame": {
+        "x": 1903,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-53.png",
+      "frame": {
+        "x": 2537,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-54.png",
+      "frame": {
+        "x": 3171,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-55.png",
+      "frame": {
+        "x": 3805,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-56.png",
+      "frame": {
+        "x": 4439,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-57.png",
+      "frame": {
+        "x": 5073,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-58.png",
+      "frame": {
+        "x": 5707,
+        "y": 4453,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-59.png",
+      "frame": {
+        "x": 1,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-6.png",
+      "frame": {
+        "x": 635,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-60.png",
+      "frame": {
+        "x": 1269,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-61.png",
+      "frame": {
+        "x": 1903,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-62.png",
+      "frame": {
+        "x": 2537,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-63.png",
+      "frame": {
+        "x": 3171,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-64.png",
+      "frame": {
+        "x": 3805,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-65.png",
+      "frame": {
+        "x": 4439,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-66.png",
+      "frame": {
+        "x": 5073,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-67.png",
+      "frame": {
+        "x": 5707,
+        "y": 4824,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-68.png",
+      "frame": {
+        "x": 1,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-69.png",
+      "frame": {
+        "x": 635,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-7.png",
+      "frame": {
+        "x": 1269,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-70.png",
+      "frame": {
+        "x": 1903,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-71.png",
+      "frame": {
+        "x": 2537,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-72.png",
+      "frame": {
+        "x": 3171,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-73.png",
+      "frame": {
+        "x": 3805,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-74.png",
+      "frame": {
+        "x": 4439,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-75.png",
+      "frame": {
+        "x": 5073,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-76.png",
+      "frame": {
+        "x": 5707,
+        "y": 5195,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-77.png",
+      "frame": {
+        "x": 1,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-78.png",
+      "frame": {
+        "x": 635,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-79.png",
+      "frame": {
+        "x": 1269,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-8.png",
+      "frame": {
+        "x": 1903,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-80.png",
+      "frame": {
+        "x": 2537,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-81.png",
+      "frame": {
+        "x": 3171,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-82.png",
+      "frame": {
+        "x": 3805,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-83.png",
+      "frame": {
+        "x": 4439,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-84.png",
+      "frame": {
+        "x": 5073,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-85.png",
+      "frame": {
+        "x": 5707,
+        "y": 5566,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-86.png",
+      "frame": {
+        "x": 1,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-87.png",
+      "frame": {
+        "x": 635,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-88.png",
+      "frame": {
+        "x": 1269,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-89.png",
+      "frame": {
+        "x": 1903,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-9.png",
+      "frame": {
+        "x": 2537,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-90.png",
+      "frame": {
+        "x": 3171,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-91.png",
+      "frame": {
+        "x": 3805,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-92.png",
+      "frame": {
+        "x": 4439,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-93.png",
+      "frame": {
+        "x": 5073,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-94.png",
+      "frame": {
+        "x": 5707,
+        "y": 5937,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-95.png",
+      "frame": {
+        "x": 6341,
+        "y": 1,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-96.png",
+      "frame": {
+        "x": 6341,
+        "y": 372,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-97.png",
+      "frame": {
+        "x": 6341,
+        "y": 743,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-98.png",
+      "frame": {
+        "x": 6341,
+        "y": 1114,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    },
+    {
+      "filename": "poetry-elevator-door-99.png",
+      "frame": {
+        "x": 6341,
+        "y": 1485,
+        "w": 632,
+        "h": 369
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 632,
+        "h": 369
+      },
+      "sourceSize": {
+        "w": 632,
+        "h": 369
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 6974,
+      "h": 6307
+    },
+    "scale": "1"
+  }
+}

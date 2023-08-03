@@ -1,0 +1,876 @@
+{
+	"frames": [
+		{
+			"filename": "services-stall-sign-1.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-10.png",
+			"frame": {
+				"x": 402,
+				"y": 1,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-11.png",
+			"frame": {
+				"x": 803,
+				"y": 1,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-12.png",
+			"frame": {
+				"x": 1204,
+				"y": 1,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-13.png",
+			"frame": {
+				"x": 1,
+				"y": 228,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-14.png",
+			"frame": {
+				"x": 402,
+				"y": 228,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-15.png",
+			"frame": {
+				"x": 803,
+				"y": 228,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-16.png",
+			"frame": {
+				"x": 1204,
+				"y": 228,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-17.png",
+			"frame": {
+				"x": 1,
+				"y": 455,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-18.png",
+			"frame": {
+				"x": 402,
+				"y": 455,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-19.png",
+			"frame": {
+				"x": 803,
+				"y": 455,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-2.png",
+			"frame": {
+				"x": 1204,
+				"y": 455,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-20.png",
+			"frame": {
+				"x": 1,
+				"y": 682,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-21.png",
+			"frame": {
+				"x": 402,
+				"y": 682,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-22.png",
+			"frame": {
+				"x": 803,
+				"y": 682,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-23.png",
+			"frame": {
+				"x": 1204,
+				"y": 682,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-24.png",
+			"frame": {
+				"x": 1,
+				"y": 909,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-25.png",
+			"frame": {
+				"x": 402,
+				"y": 909,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-26.png",
+			"frame": {
+				"x": 803,
+				"y": 909,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-27.png",
+			"frame": {
+				"x": 1204,
+				"y": 909,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-28.png",
+			"frame": {
+				"x": 1,
+				"y": 1136,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-29.png",
+			"frame": {
+				"x": 402,
+				"y": 1136,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-3.png",
+			"frame": {
+				"x": 803,
+				"y": 1136,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-30.png",
+			"frame": {
+				"x": 1204,
+				"y": 1136,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-31.png",
+			"frame": {
+				"x": 1,
+				"y": 1363,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-32.png",
+			"frame": {
+				"x": 402,
+				"y": 1363,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-33.png",
+			"frame": {
+				"x": 803,
+				"y": 1363,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-34.png",
+			"frame": {
+				"x": 1204,
+				"y": 1363,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-35.png",
+			"frame": {
+				"x": 1,
+				"y": 1590,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-36.png",
+			"frame": {
+				"x": 402,
+				"y": 1590,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-37.png",
+			"frame": {
+				"x": 803,
+				"y": 1590,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-38.png",
+			"frame": {
+				"x": 1204,
+				"y": 1590,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-39.png",
+			"frame": {
+				"x": 1605,
+				"y": 1,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-4.png",
+			"frame": {
+				"x": 1605,
+				"y": 228,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-40.png",
+			"frame": {
+				"x": 1605,
+				"y": 455,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-41.png",
+			"frame": {
+				"x": 1605,
+				"y": 682,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-5.png",
+			"frame": {
+				"x": 1605,
+				"y": 909,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-6.png",
+			"frame": {
+				"x": 1605,
+				"y": 1136,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-7.png",
+			"frame": {
+				"x": 1605,
+				"y": 1363,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-8.png",
+			"frame": {
+				"x": 1605,
+				"y": 1590,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		},
+		{
+			"filename": "services-stall-sign-9.png",
+			"frame": {
+				"x": 1,
+				"y": 1817,
+				"w": 399,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 399,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 399,
+				"h": 225
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 2005,
+			"h": 2043
+		},
+		"scale": "1"
+	}
+}

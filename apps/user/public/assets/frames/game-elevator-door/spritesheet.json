@@ -1,0 +1,5265 @@
+{
+  "frames": [
+    {
+      "filename": "game-elevator-door-1.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-10.png",
+      "frame": {
+        "x": 621,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-100.png",
+      "frame": {
+        "x": 1241,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-101.png",
+      "frame": {
+        "x": 1861,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-102.png",
+      "frame": {
+        "x": 2481,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-103.png",
+      "frame": {
+        "x": 3101,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-104.png",
+      "frame": {
+        "x": 3721,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-105.png",
+      "frame": {
+        "x": 4341,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-106.png",
+      "frame": {
+        "x": 4961,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-107.png",
+      "frame": {
+        "x": 5581,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-108.png",
+      "frame": {
+        "x": 1,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-109.png",
+      "frame": {
+        "x": 621,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-11.png",
+      "frame": {
+        "x": 1241,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-110.png",
+      "frame": {
+        "x": 1861,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-111.png",
+      "frame": {
+        "x": 2481,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-112.png",
+      "frame": {
+        "x": 3101,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-113.png",
+      "frame": {
+        "x": 3721,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-114.png",
+      "frame": {
+        "x": 4341,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-115.png",
+      "frame": {
+        "x": 4961,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-116.png",
+      "frame": {
+        "x": 5581,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-117.png",
+      "frame": {
+        "x": 1,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-118.png",
+      "frame": {
+        "x": 621,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-119.png",
+      "frame": {
+        "x": 1241,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-12.png",
+      "frame": {
+        "x": 1861,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-120.png",
+      "frame": {
+        "x": 2481,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-121.png",
+      "frame": {
+        "x": 3101,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-122.png",
+      "frame": {
+        "x": 3721,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-123.png",
+      "frame": {
+        "x": 4341,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-124.png",
+      "frame": {
+        "x": 4961,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-125.png",
+      "frame": {
+        "x": 5581,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-126.png",
+      "frame": {
+        "x": 1,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-127.png",
+      "frame": {
+        "x": 621,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-128.png",
+      "frame": {
+        "x": 1241,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-129.png",
+      "frame": {
+        "x": 1861,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-13.png",
+      "frame": {
+        "x": 2481,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-130.png",
+      "frame": {
+        "x": 3101,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-131.png",
+      "frame": {
+        "x": 3721,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-132.png",
+      "frame": {
+        "x": 4341,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-133.png",
+      "frame": {
+        "x": 4961,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-134.png",
+      "frame": {
+        "x": 5581,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-135.png",
+      "frame": {
+        "x": 1,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-136.png",
+      "frame": {
+        "x": 621,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-137.png",
+      "frame": {
+        "x": 1241,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-138.png",
+      "frame": {
+        "x": 1861,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-139.png",
+      "frame": {
+        "x": 2481,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-14.png",
+      "frame": {
+        "x": 3101,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-140.png",
+      "frame": {
+        "x": 3721,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-141.png",
+      "frame": {
+        "x": 4341,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-142.png",
+      "frame": {
+        "x": 4961,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-143.png",
+      "frame": {
+        "x": 5581,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-144.png",
+      "frame": {
+        "x": 1,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-145.png",
+      "frame": {
+        "x": 621,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-146.png",
+      "frame": {
+        "x": 1241,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-147.png",
+      "frame": {
+        "x": 1861,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-148.png",
+      "frame": {
+        "x": 2481,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-149.png",
+      "frame": {
+        "x": 3101,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-15.png",
+      "frame": {
+        "x": 3721,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-150.png",
+      "frame": {
+        "x": 4341,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-151.png",
+      "frame": {
+        "x": 4961,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-152.png",
+      "frame": {
+        "x": 5581,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-153.png",
+      "frame": {
+        "x": 1,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-154.png",
+      "frame": {
+        "x": 621,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-155.png",
+      "frame": {
+        "x": 1241,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-156.png",
+      "frame": {
+        "x": 1861,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-157.png",
+      "frame": {
+        "x": 2481,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-158.png",
+      "frame": {
+        "x": 3101,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-159.png",
+      "frame": {
+        "x": 3721,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-16.png",
+      "frame": {
+        "x": 4341,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-160.png",
+      "frame": {
+        "x": 4961,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-161.png",
+      "frame": {
+        "x": 5581,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-162.png",
+      "frame": {
+        "x": 1,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-163.png",
+      "frame": {
+        "x": 621,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-164.png",
+      "frame": {
+        "x": 1241,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-165.png",
+      "frame": {
+        "x": 1861,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-166.png",
+      "frame": {
+        "x": 2481,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-167.png",
+      "frame": {
+        "x": 3101,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-168.png",
+      "frame": {
+        "x": 3721,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-169.png",
+      "frame": {
+        "x": 4341,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-17.png",
+      "frame": {
+        "x": 4961,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-170.png",
+      "frame": {
+        "x": 5581,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-171.png",
+      "frame": {
+        "x": 1,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-172.png",
+      "frame": {
+        "x": 621,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-173.png",
+      "frame": {
+        "x": 1241,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-174.png",
+      "frame": {
+        "x": 1861,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-175.png",
+      "frame": {
+        "x": 2481,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-176.png",
+      "frame": {
+        "x": 3101,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-177.png",
+      "frame": {
+        "x": 3721,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-178.png",
+      "frame": {
+        "x": 4341,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-179.png",
+      "frame": {
+        "x": 4961,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-18.png",
+      "frame": {
+        "x": 5581,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-180.png",
+      "frame": {
+        "x": 1,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-181.png",
+      "frame": {
+        "x": 621,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-182.png",
+      "frame": {
+        "x": 1241,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-183.png",
+      "frame": {
+        "x": 1861,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-184.png",
+      "frame": {
+        "x": 2481,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-185.png",
+      "frame": {
+        "x": 3101,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-186.png",
+      "frame": {
+        "x": 3721,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-187.png",
+      "frame": {
+        "x": 4341,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-188.png",
+      "frame": {
+        "x": 4961,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-189.png",
+      "frame": {
+        "x": 5581,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-19.png",
+      "frame": {
+        "x": 1,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-190.png",
+      "frame": {
+        "x": 621,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-191.png",
+      "frame": {
+        "x": 1241,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-192.png",
+      "frame": {
+        "x": 1861,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-193.png",
+      "frame": {
+        "x": 2481,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-194.png",
+      "frame": {
+        "x": 3101,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-195.png",
+      "frame": {
+        "x": 3721,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-196.png",
+      "frame": {
+        "x": 4341,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-197.png",
+      "frame": {
+        "x": 4961,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-198.png",
+      "frame": {
+        "x": 5581,
+        "y": 2501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-199.png",
+      "frame": {
+        "x": 1,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-2.png",
+      "frame": {
+        "x": 621,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-20.png",
+      "frame": {
+        "x": 1241,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-200.png",
+      "frame": {
+        "x": 1861,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-201.png",
+      "frame": {
+        "x": 2481,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-202.png",
+      "frame": {
+        "x": 3101,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-203.png",
+      "frame": {
+        "x": 3721,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-204.png",
+      "frame": {
+        "x": 4341,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-205.png",
+      "frame": {
+        "x": 4961,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-206.png",
+      "frame": {
+        "x": 5581,
+        "y": 2751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-207.png",
+      "frame": {
+        "x": 1,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-208.png",
+      "frame": {
+        "x": 621,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-209.png",
+      "frame": {
+        "x": 1241,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-21.png",
+      "frame": {
+        "x": 1861,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-210.png",
+      "frame": {
+        "x": 2481,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-211.png",
+      "frame": {
+        "x": 3101,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-212.png",
+      "frame": {
+        "x": 3721,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-213.png",
+      "frame": {
+        "x": 4341,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-214.png",
+      "frame": {
+        "x": 4961,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-215.png",
+      "frame": {
+        "x": 5581,
+        "y": 3001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-216.png",
+      "frame": {
+        "x": 1,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-217.png",
+      "frame": {
+        "x": 621,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-218.png",
+      "frame": {
+        "x": 1241,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-219.png",
+      "frame": {
+        "x": 1861,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-22.png",
+      "frame": {
+        "x": 2481,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-220.png",
+      "frame": {
+        "x": 3101,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-221.png",
+      "frame": {
+        "x": 3721,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-222.png",
+      "frame": {
+        "x": 4341,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-223.png",
+      "frame": {
+        "x": 4961,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-224.png",
+      "frame": {
+        "x": 5581,
+        "y": 3251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-225.png",
+      "frame": {
+        "x": 1,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-226.png",
+      "frame": {
+        "x": 621,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-227.png",
+      "frame": {
+        "x": 1241,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-228.png",
+      "frame": {
+        "x": 1861,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-229.png",
+      "frame": {
+        "x": 2481,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-23.png",
+      "frame": {
+        "x": 3101,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-230.png",
+      "frame": {
+        "x": 3721,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-231.png",
+      "frame": {
+        "x": 4341,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-232.png",
+      "frame": {
+        "x": 4961,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-233.png",
+      "frame": {
+        "x": 5581,
+        "y": 3501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-234.png",
+      "frame": {
+        "x": 1,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-235.png",
+      "frame": {
+        "x": 621,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-236.png",
+      "frame": {
+        "x": 1241,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-237.png",
+      "frame": {
+        "x": 1861,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-238.png",
+      "frame": {
+        "x": 2481,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-239.png",
+      "frame": {
+        "x": 3101,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-24.png",
+      "frame": {
+        "x": 3721,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-240.png",
+      "frame": {
+        "x": 4341,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-241.png",
+      "frame": {
+        "x": 4961,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-242.png",
+      "frame": {
+        "x": 5581,
+        "y": 3751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-243.png",
+      "frame": {
+        "x": 1,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-244.png",
+      "frame": {
+        "x": 621,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-245.png",
+      "frame": {
+        "x": 1241,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-246.png",
+      "frame": {
+        "x": 1861,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-247.png",
+      "frame": {
+        "x": 2481,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-248.png",
+      "frame": {
+        "x": 3101,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-249.png",
+      "frame": {
+        "x": 3721,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-25.png",
+      "frame": {
+        "x": 4341,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-250.png",
+      "frame": {
+        "x": 4961,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-26.png",
+      "frame": {
+        "x": 5581,
+        "y": 4001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-27.png",
+      "frame": {
+        "x": 1,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-28.png",
+      "frame": {
+        "x": 621,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-29.png",
+      "frame": {
+        "x": 1241,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-3.png",
+      "frame": {
+        "x": 1861,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-30.png",
+      "frame": {
+        "x": 2481,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-31.png",
+      "frame": {
+        "x": 3101,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-32.png",
+      "frame": {
+        "x": 3721,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-33.png",
+      "frame": {
+        "x": 4341,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-34.png",
+      "frame": {
+        "x": 4961,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-35.png",
+      "frame": {
+        "x": 5581,
+        "y": 4251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-36.png",
+      "frame": {
+        "x": 1,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-37.png",
+      "frame": {
+        "x": 621,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-38.png",
+      "frame": {
+        "x": 1241,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-39.png",
+      "frame": {
+        "x": 1861,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-4.png",
+      "frame": {
+        "x": 2481,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-40.png",
+      "frame": {
+        "x": 3101,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-41.png",
+      "frame": {
+        "x": 3721,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-42.png",
+      "frame": {
+        "x": 4341,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-43.png",
+      "frame": {
+        "x": 4961,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-44.png",
+      "frame": {
+        "x": 5581,
+        "y": 4501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-45.png",
+      "frame": {
+        "x": 1,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-46.png",
+      "frame": {
+        "x": 621,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-47.png",
+      "frame": {
+        "x": 1241,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-48.png",
+      "frame": {
+        "x": 1861,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-49.png",
+      "frame": {
+        "x": 2481,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-5.png",
+      "frame": {
+        "x": 3101,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-50.png",
+      "frame": {
+        "x": 3721,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-51.png",
+      "frame": {
+        "x": 4341,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-52.png",
+      "frame": {
+        "x": 4961,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-53.png",
+      "frame": {
+        "x": 5581,
+        "y": 4751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-54.png",
+      "frame": {
+        "x": 1,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-55.png",
+      "frame": {
+        "x": 621,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-56.png",
+      "frame": {
+        "x": 1241,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-57.png",
+      "frame": {
+        "x": 1861,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-58.png",
+      "frame": {
+        "x": 2481,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-59.png",
+      "frame": {
+        "x": 3101,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-6.png",
+      "frame": {
+        "x": 3721,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-60.png",
+      "frame": {
+        "x": 4341,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-61.png",
+      "frame": {
+        "x": 4961,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-62.png",
+      "frame": {
+        "x": 5581,
+        "y": 5001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-63.png",
+      "frame": {
+        "x": 1,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-64.png",
+      "frame": {
+        "x": 621,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-65.png",
+      "frame": {
+        "x": 1241,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-66.png",
+      "frame": {
+        "x": 1861,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-67.png",
+      "frame": {
+        "x": 2481,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-68.png",
+      "frame": {
+        "x": 3101,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-69.png",
+      "frame": {
+        "x": 3721,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-7.png",
+      "frame": {
+        "x": 4341,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-70.png",
+      "frame": {
+        "x": 4961,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-71.png",
+      "frame": {
+        "x": 5581,
+        "y": 5251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-72.png",
+      "frame": {
+        "x": 1,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-73.png",
+      "frame": {
+        "x": 621,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-74.png",
+      "frame": {
+        "x": 1241,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-75.png",
+      "frame": {
+        "x": 1861,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-76.png",
+      "frame": {
+        "x": 2481,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-77.png",
+      "frame": {
+        "x": 3101,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-78.png",
+      "frame": {
+        "x": 3721,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-79.png",
+      "frame": {
+        "x": 4341,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-8.png",
+      "frame": {
+        "x": 4961,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-80.png",
+      "frame": {
+        "x": 5581,
+        "y": 5501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-81.png",
+      "frame": {
+        "x": 1,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-82.png",
+      "frame": {
+        "x": 621,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-83.png",
+      "frame": {
+        "x": 1241,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-84.png",
+      "frame": {
+        "x": 1861,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-85.png",
+      "frame": {
+        "x": 2481,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-86.png",
+      "frame": {
+        "x": 3101,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-87.png",
+      "frame": {
+        "x": 3721,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-88.png",
+      "frame": {
+        "x": 4341,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-89.png",
+      "frame": {
+        "x": 4961,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-9.png",
+      "frame": {
+        "x": 5581,
+        "y": 5751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-90.png",
+      "frame": {
+        "x": 6201,
+        "y": 1,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-91.png",
+      "frame": {
+        "x": 6201,
+        "y": 251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-92.png",
+      "frame": {
+        "x": 6201,
+        "y": 501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-93.png",
+      "frame": {
+        "x": 6201,
+        "y": 751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-94.png",
+      "frame": {
+        "x": 6201,
+        "y": 1001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-95.png",
+      "frame": {
+        "x": 6201,
+        "y": 1251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-96.png",
+      "frame": {
+        "x": 6201,
+        "y": 1501,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-97.png",
+      "frame": {
+        "x": 6201,
+        "y": 1751,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-98.png",
+      "frame": {
+        "x": 6201,
+        "y": 2001,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    },
+    {
+      "filename": "game-elevator-door-99.png",
+      "frame": {
+        "x": 6201,
+        "y": 2251,
+        "w": 618,
+        "h": 248
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 618,
+        "h": 248
+      },
+      "sourceSize": {
+        "w": 618,
+        "h": 248
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 6820,
+      "h": 6000
+    },
+    "scale": "1"
+  }
+}

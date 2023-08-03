@@ -1,0 +1,309 @@
+{
+	"frames": [
+		{
+			"filename": "game-sign-1.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-10.png",
+			"frame": {
+				"x": 737,
+				"y": 1,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-11.png",
+			"frame": {
+				"x": 1,
+				"y": 213,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-12.png",
+			"frame": {
+				"x": 737,
+				"y": 213,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-13.png",
+			"frame": {
+				"x": 1,
+				"y": 425,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-14.png",
+			"frame": {
+				"x": 737,
+				"y": 425,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-2.png",
+			"frame": {
+				"x": 1,
+				"y": 637,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-3.png",
+			"frame": {
+				"x": 737,
+				"y": 637,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-4.png",
+			"frame": {
+				"x": 1,
+				"y": 849,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-5.png",
+			"frame": {
+				"x": 737,
+				"y": 849,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-6.png",
+			"frame": {
+				"x": 1,
+				"y": 1061,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-7.png",
+			"frame": {
+				"x": 737,
+				"y": 1061,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-8.png",
+			"frame": {
+				"x": 1473,
+				"y": 1,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		},
+		{
+			"filename": "game-sign-9.png",
+			"frame": {
+				"x": 1473,
+				"y": 213,
+				"w": 734,
+				"h": 210
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 734,
+				"h": 210
+			},
+			"sourceSize": {
+				"w": 734,
+				"h": 210
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 2208,
+			"h": 1272
+		},
+		"scale": "1"
+	}
+}

@@ -1,11 +1,18 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@config": ["src/config"],
+      "@scenes": ["src/scenes"]
+    },
     "jsx": "react-jsx",
     "allowJs": false,
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "types": ["vite/client", "vitest"]
+    "types": ["vite/client", "vitest"],
+    "strictPropertyInitialization": false
   },
   "files": [],
   "include": [],

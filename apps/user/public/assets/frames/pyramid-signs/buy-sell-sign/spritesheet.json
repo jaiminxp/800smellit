@@ -1,0 +1,78 @@
+{
+  "frames": [
+    {
+      "filename": "buy-sell-sign-1.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 352,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 352,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 40
+      }
+    },
+    {
+      "filename": "buy-sell-sign-2.png",
+      "frame": {
+        "x": 1,
+        "y": 43,
+        "w": 352,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 352,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 40
+      }
+    },
+    {
+      "filename": "buy-sell-sign-3.png",
+      "frame": {
+        "x": 1,
+        "y": 85,
+        "w": 352,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 352,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 352,
+        "h": 40
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 354,
+      "h": 126
+    },
+    "scale": "1"
+  }
+}

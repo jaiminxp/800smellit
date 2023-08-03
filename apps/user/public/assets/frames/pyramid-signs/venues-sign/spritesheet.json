@@ -1,0 +1,2136 @@
+{
+	"frames": [
+		{
+			"filename": "venues-sign-1.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-10.png",
+			"frame": {
+				"x": 275,
+				"y": 1,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-100.png",
+			"frame": {
+				"x": 549,
+				"y": 1,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-101.png",
+			"frame": {
+				"x": 1,
+				"y": 43,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-11.png",
+			"frame": {
+				"x": 275,
+				"y": 43,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-12.png",
+			"frame": {
+				"x": 549,
+				"y": 43,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-13.png",
+			"frame": {
+				"x": 1,
+				"y": 85,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-14.png",
+			"frame": {
+				"x": 275,
+				"y": 85,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-15.png",
+			"frame": {
+				"x": 549,
+				"y": 85,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-16.png",
+			"frame": {
+				"x": 1,
+				"y": 127,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-17.png",
+			"frame": {
+				"x": 275,
+				"y": 127,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-18.png",
+			"frame": {
+				"x": 549,
+				"y": 127,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-19.png",
+			"frame": {
+				"x": 1,
+				"y": 169,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-2.png",
+			"frame": {
+				"x": 275,
+				"y": 169,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-20.png",
+			"frame": {
+				"x": 549,
+				"y": 169,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-21.png",
+			"frame": {
+				"x": 1,
+				"y": 211,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-22.png",
+			"frame": {
+				"x": 275,
+				"y": 211,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-23.png",
+			"frame": {
+				"x": 549,
+				"y": 211,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-24.png",
+			"frame": {
+				"x": 1,
+				"y": 253,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-25.png",
+			"frame": {
+				"x": 275,
+				"y": 253,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-26.png",
+			"frame": {
+				"x": 549,
+				"y": 253,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-27.png",
+			"frame": {
+				"x": 1,
+				"y": 295,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-28.png",
+			"frame": {
+				"x": 275,
+				"y": 295,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-29.png",
+			"frame": {
+				"x": 549,
+				"y": 295,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-3.png",
+			"frame": {
+				"x": 1,
+				"y": 337,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-30.png",
+			"frame": {
+				"x": 275,
+				"y": 337,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-31.png",
+			"frame": {
+				"x": 549,
+				"y": 337,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-32.png",
+			"frame": {
+				"x": 1,
+				"y": 379,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-33.png",
+			"frame": {
+				"x": 275,
+				"y": 379,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-34.png",
+			"frame": {
+				"x": 549,
+				"y": 379,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-35.png",
+			"frame": {
+				"x": 1,
+				"y": 421,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-36.png",
+			"frame": {
+				"x": 275,
+				"y": 421,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-37.png",
+			"frame": {
+				"x": 549,
+				"y": 421,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-38.png",
+			"frame": {
+				"x": 1,
+				"y": 463,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-39.png",
+			"frame": {
+				"x": 275,
+				"y": 463,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-4.png",
+			"frame": {
+				"x": 549,
+				"y": 463,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-40.png",
+			"frame": {
+				"x": 1,
+				"y": 505,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-41.png",
+			"frame": {
+				"x": 275,
+				"y": 505,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-42.png",
+			"frame": {
+				"x": 549,
+				"y": 505,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-43.png",
+			"frame": {
+				"x": 1,
+				"y": 547,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-44.png",
+			"frame": {
+				"x": 275,
+				"y": 547,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-45.png",
+			"frame": {
+				"x": 549,
+				"y": 547,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-46.png",
+			"frame": {
+				"x": 1,
+				"y": 589,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-47.png",
+			"frame": {
+				"x": 275,
+				"y": 589,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-48.png",
+			"frame": {
+				"x": 549,
+				"y": 589,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-49.png",
+			"frame": {
+				"x": 1,
+				"y": 631,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-5.png",
+			"frame": {
+				"x": 275,
+				"y": 631,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-50.png",
+			"frame": {
+				"x": 549,
+				"y": 631,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-51.png",
+			"frame": {
+				"x": 1,
+				"y": 673,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-52.png",
+			"frame": {
+				"x": 275,
+				"y": 673,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-53.png",
+			"frame": {
+				"x": 549,
+				"y": 673,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-54.png",
+			"frame": {
+				"x": 1,
+				"y": 715,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-55.png",
+			"frame": {
+				"x": 275,
+				"y": 715,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-56.png",
+			"frame": {
+				"x": 549,
+				"y": 715,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-57.png",
+			"frame": {
+				"x": 1,
+				"y": 757,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-58.png",
+			"frame": {
+				"x": 275,
+				"y": 757,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-59.png",
+			"frame": {
+				"x": 549,
+				"y": 757,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-6.png",
+			"frame": {
+				"x": 1,
+				"y": 799,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-60.png",
+			"frame": {
+				"x": 275,
+				"y": 799,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-61.png",
+			"frame": {
+				"x": 549,
+				"y": 799,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-62.png",
+			"frame": {
+				"x": 1,
+				"y": 841,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-63.png",
+			"frame": {
+				"x": 275,
+				"y": 841,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-64.png",
+			"frame": {
+				"x": 549,
+				"y": 841,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-65.png",
+			"frame": {
+				"x": 1,
+				"y": 883,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-66.png",
+			"frame": {
+				"x": 275,
+				"y": 883,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-67.png",
+			"frame": {
+				"x": 549,
+				"y": 883,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-68.png",
+			"frame": {
+				"x": 1,
+				"y": 925,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-69.png",
+			"frame": {
+				"x": 275,
+				"y": 925,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-7.png",
+			"frame": {
+				"x": 549,
+				"y": 925,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-70.png",
+			"frame": {
+				"x": 1,
+				"y": 967,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-71.png",
+			"frame": {
+				"x": 275,
+				"y": 967,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-72.png",
+			"frame": {
+				"x": 549,
+				"y": 967,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-73.png",
+			"frame": {
+				"x": 1,
+				"y": 1009,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-74.png",
+			"frame": {
+				"x": 275,
+				"y": 1009,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-75.png",
+			"frame": {
+				"x": 549,
+				"y": 1009,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-76.png",
+			"frame": {
+				"x": 823,
+				"y": 1,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-77.png",
+			"frame": {
+				"x": 823,
+				"y": 43,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-78.png",
+			"frame": {
+				"x": 823,
+				"y": 85,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-79.png",
+			"frame": {
+				"x": 823,
+				"y": 127,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-8.png",
+			"frame": {
+				"x": 823,
+				"y": 169,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-80.png",
+			"frame": {
+				"x": 823,
+				"y": 211,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-81.png",
+			"frame": {
+				"x": 823,
+				"y": 253,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-82.png",
+			"frame": {
+				"x": 823,
+				"y": 295,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-83.png",
+			"frame": {
+				"x": 823,
+				"y": 337,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-84.png",
+			"frame": {
+				"x": 823,
+				"y": 379,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-85.png",
+			"frame": {
+				"x": 823,
+				"y": 421,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-86.png",
+			"frame": {
+				"x": 823,
+				"y": 463,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-87.png",
+			"frame": {
+				"x": 823,
+				"y": 505,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-88.png",
+			"frame": {
+				"x": 823,
+				"y": 547,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-89.png",
+			"frame": {
+				"x": 823,
+				"y": 589,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-9.png",
+			"frame": {
+				"x": 823,
+				"y": 631,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-90.png",
+			"frame": {
+				"x": 823,
+				"y": 673,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-91.png",
+			"frame": {
+				"x": 823,
+				"y": 715,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-92.png",
+			"frame": {
+				"x": 823,
+				"y": 757,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-93.png",
+			"frame": {
+				"x": 823,
+				"y": 799,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-94.png",
+			"frame": {
+				"x": 823,
+				"y": 841,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-95.png",
+			"frame": {
+				"x": 823,
+				"y": 883,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-96.png",
+			"frame": {
+				"x": 823,
+				"y": 925,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-97.png",
+			"frame": {
+				"x": 823,
+				"y": 967,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-98.png",
+			"frame": {
+				"x": 823,
+				"y": 1009,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		},
+		{
+			"filename": "venues-sign-99.png",
+			"frame": {
+				"x": 1,
+				"y": 1051,
+				"w": 272,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 40
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1096,
+			"h": 1092
+		},
+		"scale": "1"
+	}
+}
