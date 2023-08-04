@@ -12,7 +12,7 @@
         "target": "node",
         "compiler": "tsc",
         "outputPath": "dist/apps/api",
-        "main": "apps/api/src/main.js",
+        "main": "apps/api/src/app.js",
         "tsConfig": "apps/api/tsconfig.app.json",
         "assets": ["apps/api/src/assets"],
         "isolatedConfig": true,
