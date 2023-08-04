@@ -50,6 +50,12 @@
         "style": "css",
         "linter": "eslint"
       }
+    },
+    "@nx/next": {
+      "application": {
+        "style": "css",
+        "linter": "eslint"
+      }
     }
   }
 }
