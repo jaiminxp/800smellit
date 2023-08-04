@@ -28,6 +28,12 @@ import { useRouter } from 'next/navigation'
 
 type TData = { message: string }
 type TVariables = { id: string; action: TStatusAction }
+type TContext =
+  | {
+      artists: IPendingArtistsResponse | undefined
+      stats: IPendingStatisticsResponse | undefined
+    }
+  | undefined
 
 export default function PendingArtistsTab() {
   const { data: artists, isLoading } = useQuery(['pending-artists'], () =>
@@ -42,7 +48,7 @@ export default function PendingArtistsTab() {
 
   const router = useRouter()
 
-  const statusMutation = useMutation<TData, Error, TVariables>({
+  const statusMutation = useMutation<TData, Error, TVariables, TContext>({
     mutationFn: ({ id, action }) =>
       reviewService.updateArtistStatus(id, action),
 
@@ -77,8 +83,10 @@ export default function PendingArtistsTab() {
       })
     },
 
-    onError: (error, variables, context: any) => {
+    onError: (error, variables, context) => {
       toast({ status: 'error', title: error.message })
+
+      if (!(context?.artists && context?.stats)) return
 
       queryClient.setQueryData(['pending-artists'], context.artists)
       queryClient.setQueryData(['pending-statistics'], context.stats)

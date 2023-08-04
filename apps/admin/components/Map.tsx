@@ -1,7 +1,12 @@
 'use client'
 
 import { Box, BoxProps } from '@chakra-ui/react'
-import mapboxgl, { LngLatLike, Map as MapboxMap, Marker } from 'mapbox-gl'
+import mapboxgl, {
+  LngLatLike,
+  Map as MapboxMap,
+  Marker,
+  Popup,
+} from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 import { useEffect, useRef } from 'react'
 
@@ -23,9 +28,9 @@ export default function Map({
   const mapContainer = useRef<HTMLElement>(null)
   const map = useRef<MapboxMap | null>(null)
   const marker = useRef<Marker | null>(null)
-  const popup = useRef<any>(null)
+  const popup = useRef<Popup | null>(null)
 
-  mapboxgl.accessToken = mbxToken?.toString()!
+  mapboxgl.accessToken = mbxToken as string
 
   useEffect(() => {
     if (map.current) return

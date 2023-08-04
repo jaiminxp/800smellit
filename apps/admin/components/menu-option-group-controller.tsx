@@ -4,6 +4,7 @@ import { Control, Controller } from 'react-hook-form'
 
 interface IProps extends MenuOptionGroupProps {
   name: string
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   control: Control<any>
   children: ReactNode
 }

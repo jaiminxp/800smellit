@@ -5,7 +5,7 @@ import { ISearchUsersResponse } from '@/lib/interfaces'
 import { userService } from '@/services'
 import { useCallback, useState } from 'react'
 import { Link } from '@chakra-ui/next-js'
-import { useForm } from 'react-hook-form'
+import { SubmitHandler, useForm } from 'react-hook-form'
 import { ChevronDownIcon, WarningIcon } from '@chakra-ui/icons'
 import MenuOptionGroupController from '@/components/menu-option-group-controller'
 import {
@@ -36,6 +36,7 @@ import {
 } from '@chakra-ui/react'
 import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'next/navigation'
+import { createQueryString } from '@/lib/utils'
 
 export default function SearchUsersPage() {
   const [userQuery, setUserQuery] = useState<string | undefined>() // stores query string to filter users
@@ -156,25 +157,21 @@ interface ISearchProps {
   onSubmit: (query: string) => void
 }
 
+interface FieldValues {
+  email: string
+  status: string
+  roles: string[]
+}
+
 function Search({ onSubmit }: ISearchProps) {
-  const { register, handleSubmit, control } = useForm({
+  const { register, handleSubmit, control } = useForm<FieldValues>({
     defaultValues: defaultSearchValues,
   })
 
-  async function handleSearchSubmit(values: any) {
-    const queryString = createQueryString(values)
-    onSubmit(queryString)
-  }
+  const handleSearchSubmit: SubmitHandler<FieldValues> = (values) =>
+    onSubmit(createQueryStringCb(values))
 
-  const createQueryString = useCallback((query: any) => {
-    const params = new URLSearchParams()
-
-    Object.keys(query).forEach((key) => {
-      params.set(key, query[key])
-    })
-
-    return params.toString()
-  }, [])
+  const createQueryStringCb = useCallback(createQueryString, [])
 
   return (
     <Stack

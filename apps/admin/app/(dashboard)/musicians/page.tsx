@@ -1,10 +1,10 @@
 'use client'
 
-import { ROLE_ADMIN, ROLE_ARTIST, ROLE_MUSICIAN, states } from '@/lib/constants'
+import { states } from '@/lib/constants'
 import { IMusician } from '@/lib/interfaces'
 import { musicianService } from '@/services'
 import { useCallback, useState } from 'react'
-import { useForm } from 'react-hook-form'
+import { SubmitHandler, useForm } from 'react-hook-form'
 import { ChevronDownIcon, WarningIcon } from '@chakra-ui/icons'
 import MenuOptionGroupController from '@/components/menu-option-group-controller'
 import {
@@ -34,6 +34,7 @@ import {
 } from '@chakra-ui/react'
 import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'next/navigation'
+import { createQueryString } from '@/lib/utils'
 
 export default function SearchMusiciansPage() {
   const [searchQuery, setSearchQuery] = useState<string>() // stores query string to filter musicians
@@ -170,25 +171,23 @@ interface ISearchProps {
   onSubmit: (query: string) => void
 }
 
+interface FieldValues {
+  name: string
+  state: string
+  city: string
+  genre: string
+  status: string[]
+}
+
 function Search({ onSubmit }: ISearchProps) {
-  const { register, handleSubmit, control, watch } = useForm({
+  const { register, handleSubmit, control } = useForm<FieldValues>({
     defaultValues: defaultSearchValues,
   })
 
-  async function handleSearchSubmit(values: any) {
-    const queryString = createQueryString(values)
-    onSubmit(queryString)
-  }
+  const handleSearchSubmit: SubmitHandler<FieldValues> = (values) =>
+    onSubmit(createQueryStringCb(values))
 
-  const createQueryString = useCallback((query: any) => {
-    const params = new URLSearchParams()
-
-    Object.keys(query).forEach((key) => {
-      params.set(key, query[key])
-    })
-
-    return params.toString()
-  }, [])
+  const createQueryStringCb = useCallback(createQueryString, [])
 
   return (
     <Stack
@@ -260,24 +259,4 @@ function Search({ onSubmit }: ISearchProps) {
       </form>
     </Stack>
   )
-}
-
-const userRoleTags: {
-  [x: string]: {
-    name: string
-    color: string
-  }
-} = {
-  [ROLE_ADMIN]: {
-    name: 'Admin',
-    color: 'red',
-  },
-  [ROLE_MUSICIAN]: {
-    name: 'Musician',
-    color: 'purple',
-  },
-  [ROLE_ARTIST]: {
-    name: 'Artist',
-    color: 'cyan',
-  },
 }

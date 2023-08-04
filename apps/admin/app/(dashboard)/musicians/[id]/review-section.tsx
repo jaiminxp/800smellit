@@ -16,6 +16,13 @@ interface IReviewSectionProps {
 
 type TData = { message: string }
 type TVariables = { id: string; action: TStatusAction }
+type TContext =
+  | {
+      musician: IMusician | undefined
+      pendingMusicians: IPendingMusiciansResponse | undefined
+      stats: IPendingStatisticsResponse | undefined
+    }
+  | undefined
 
 export default function ReviewSection({
   isUpdate,
@@ -29,7 +36,7 @@ export default function ReviewSection({
     position: 'top',
   })
 
-  const reviewMutation = useMutation<TData, Error, TVariables>({
+  const reviewMutation = useMutation<TData, Error, TVariables, TContext>({
     mutationFn: ({ id, action }) =>
       reviewService.updateMusicianStatus(id, action),
 
@@ -93,8 +100,10 @@ export default function ReviewSection({
       })
     },
 
-    onError: (error, { id }, context: any) => {
+    onError: (error, { id }, context) => {
       toast({ status: 'error', title: error.message })
+      if (!(context?.musician && context?.pendingMusicians && context?.stats))
+        return
 
       queryClient.setQueryData([`musician/${id}`], context.musician)
       queryClient.setQueryData(['pending-musicians'], context.pendingMusicians)

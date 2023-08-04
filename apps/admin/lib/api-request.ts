@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { TOKEN } from './constants/auth'
 
 const BASE_URL = process.env.NEXT_PUBLIC_API_ENDPOINT
