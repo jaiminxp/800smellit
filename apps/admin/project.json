@@ -24,7 +24,8 @@
       "options": {
         "buildTarget": "admin:build",
         "dev": true,
-        "port": 3002
+        "port": 3002,
+        "proxyConfig": "apps/admin/proxy.conf.json"
       },
       "configurations": {
         "development": {

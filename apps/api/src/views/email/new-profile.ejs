@@ -1,0 +1,21 @@
+<div style="font-family: sans-serif">
+  <p style="margin-bottom: 1rem">Profile Type: <%= profileType || '' %></p>
+  <p style="margin-bottom: 1rem">Full Name: <%= profile.name || '' %></p>
+  <p style="margin-bottom: 1rem">Email: <%= profile.user.email || '' %></p>
+  <a
+    style="
+      color: white;
+      padding: 1rem 2rem;
+      font-size: 18px;
+      border-radius: 10px;
+      border: none;
+      background-color: teal;
+      text-decoration: none;
+      margin-bottom: 2rem;
+      display: block;
+      width: max-content;
+    "
+    href="<%= adminSiteUrl %>/<%= profile._id %>"
+    >View profile</a
+  >
+</div>
