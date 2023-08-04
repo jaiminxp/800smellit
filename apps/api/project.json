@@ -44,6 +44,13 @@
       "options": {
         "lintFilePatterns": ["apps/api/**/*.js"]
       }
+    },
+    "seed": {
+      "executor": "nx:run-commands",
+      "outputs": [],
+      "options": {
+        "command": "node apps/api/src/seeds/index.js"
+      }
     }
   },
   "tags": []
