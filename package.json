@@ -2,7 +2,9 @@
   "name": "@800smellit-nx/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "api:serve": "node apps/api/src/app.js"
+  },
   "private": true,
   "devDependencies": {
     "@nx/eslint-plugin": "16.6.0",
