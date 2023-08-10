@@ -542,6 +542,11 @@ function EditProfile() {
                   data={events}
                   editItem={handleEditEvent}
                   deleteItem={handleDeleteEvent}
+                  dataExtractor={(e) => ({
+                    name: e.name,
+                    date: e.date,
+                    venue: e.venue.name,
+                  })}
                 />
               </div>
 

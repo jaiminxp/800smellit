@@ -146,7 +146,15 @@ const VenueDetail = ({ venue }: Props) => {
         <h3 className="text-xl">Events</h3>
         {venue.events.length > 0 ? (
           <div className="w-2/3 mt-2 border-2 border-white">
-            <EventList data={venue.events} showActions={false} />
+            <EventList
+              data={venue.events}
+              showActions={false}
+              dataExtractor={(e) => ({
+                name: e.name,
+                date: e.date,
+                venue: e.venue.name,
+              })}
+            />
           </div>
         ) : (
           <p className="err-msg mt-3">No events</p>
