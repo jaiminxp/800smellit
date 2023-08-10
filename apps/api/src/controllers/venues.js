@@ -68,7 +68,7 @@ const create = async (req, res) => {
         },
       },
       { overwriteDiscriminatorKey: true, new: true }
-    )
+    ).populate('events')
 
     return res.json(claimedVenue)
   }
