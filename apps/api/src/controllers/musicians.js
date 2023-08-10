@@ -58,6 +58,8 @@ const createMusician = async (req, res) => {
     }
   )
 
+  await Promise.all(createEvents)
+
   if (logo) {
     const uploadedLogo = await streamUpload(logo[0].buffer)
     debug.log('☁️ Uploaded file', logo[0].originalname)
@@ -125,7 +127,6 @@ const createMusician = async (req, res) => {
     await newMusician.save()
   }
 
-  await Promise.all(createEvents)
   await Event.insertMany(eventList)
   await user.save()
 
