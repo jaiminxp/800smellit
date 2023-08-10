@@ -10,7 +10,7 @@ const search = async (req, res) => {
     name: name ? { $regex: new RegExp(name, 'i') } : { $ne: null },
     'address.city': city ? { $regex: new RegExp(city, 'i') } : { $ne: null },
     'address.state': state || { $ne: null },
-  })
+  }).populate('events')
 
   res.json(venues)
 }
