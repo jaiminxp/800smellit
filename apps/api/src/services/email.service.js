@@ -4,7 +4,7 @@ const debug = require('../lib/debug')
 
 const { SMTP_USER, ADMIN_EMAIL, ADMIN_SITE_URL } = process.env
 
-const TEMPLATE_PATH = './views/email'
+const TEMPLATE_PATH = 'apps/api/src/views/email'
 
 function getTemplatePath(template) {
   return `${TEMPLATE_PATH}/${template}.ejs`
