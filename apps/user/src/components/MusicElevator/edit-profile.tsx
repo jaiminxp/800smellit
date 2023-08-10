@@ -177,19 +177,19 @@ function EditProfile() {
   }
 
   const handleEventFormSubmit = async (values: EventModalData) => {
+    const eventPayload: EventPayload = {
+      ...values,
+      organizerType: EventOrganizerType.Musician,
+      organizerId: profile._id,
+      venue: values.venue._id,
+    }
+
     if (selectedEvent) {
       updateEventMutation.mutate({
         id: selectedEvent._id,
-        event: { ...values, venue: values.venue._id },
+        event: eventPayload,
       })
     } else {
-      const eventPayload: EventPayload = {
-        ...values,
-        organizerType: EventOrganizerType.Musician,
-        organizerId: profile._id,
-        venue: values.venue._id,
-      }
-
       createEventMutation.mutate(eventPayload)
     }
   }
