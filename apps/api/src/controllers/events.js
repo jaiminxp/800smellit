@@ -51,29 +51,56 @@ const createEvent = async (req, res) => {
 const search = async (req, res) => {
   const { type, name, state, city, genre, startDate, endDate } = req.query
 
-  const events = await Event.find({
-    organizerType: type || { $ne: null },
-    genre: genre ? { $regex: new RegExp(genre, 'i') } : { $ne: null },
-    'organizerInfo.name': name
-      ? { $regex: new RegExp(name, 'i') }
-      : { $ne: null },
-    'address.city': city ? { $regex: new RegExp(city, 'i') } : { $ne: null },
-    'address.state': state || { $ne: null },
-    date: endDate
-      ? {
-          $gte: new Date(startDate || null), // use today's date if the start date is not provided
-          $lte: new Date(endDate),
-        }
-      : {
-          $gte: new Date(startDate || null),
-        },
-  }).populate([
-    {
-      path: 'organizerInfo.organizer',
-      select: 'name band logo address',
-    },
-    { path: 'venue' },
-  ])
+  const events = await Event.aggregate()
+    .match({
+      organizerType: type || { $ne: null },
+      'organizerInfo.name': name
+        ? { $regex: new RegExp(name, 'i') }
+        : { $ne: null },
+      genre: genre ? { $regex: new RegExp(genre, 'i') } : { $ne: null },
+      date: endDate
+        ? {
+            // use today's date if the start date is not provided
+            $gte: new Date(startDate || null),
+            $lte: new Date(endDate),
+          }
+        : {
+            $gte: new Date(startDate || null),
+          },
+    })
+    .lookup({
+      from: 'venues',
+      localField: 'venue',
+      foreignField: '_id',
+      as: 'venue',
+    })
+    .lookup({
+      from: type === 'Musician' ? 'musicians' : 'artists',
+      localField: 'organizerInfo.organizer',
+      foreignField: '_id',
+      as: 'organizerInfo.organizer',
+    })
+    .addFields({
+      'organizerInfo.organizer': { $first: '$organizerInfo.organizer' },
+      venue: { $first: '$venue' },
+    })
+    .match({
+      'venue.address.city': city
+        ? { $regex: new RegExp(city, 'i') }
+        : { $ne: null },
+      'venue.address.state': state || { $ne: null },
+    })
+    .addFields({
+      'venue.fullAddress': {
+        $concat: [
+          '$venue.address.address',
+          ', ',
+          '$venue.address.city',
+          ', ',
+          '$venue.address.state',
+        ],
+      },
+    })
 
   res.json(events)
 }
