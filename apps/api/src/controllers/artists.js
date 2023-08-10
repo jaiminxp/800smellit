@@ -47,7 +47,7 @@ const createArtist = async (req, res) => {
         name: stray?.name || newArtist.name,
       }
 
-      Venue.findByIdAndUpdate(venueId, {
+      await Venue.findByIdAndUpdate(venueId, {
         $push: { events: event },
       })
 
