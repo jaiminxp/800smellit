@@ -399,6 +399,11 @@ const EditVenue = () => {
                           index: i,
                         })
                       }
+                      dataExtractor={(e) => ({
+                        name: e.name,
+                        date: e.date,
+                        venue: e.venue.name,
+                      })}
                     />
                   </div>
                 ) : (
