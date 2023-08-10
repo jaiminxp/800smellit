@@ -1,3 +1,4 @@
+import EventList from '@/components/event-list'
 import Gallery from '@/components/gallery'
 import Map from '@/components/map'
 import { Venue } from '@/types'
@@ -24,6 +25,25 @@ const VenueDetail = ({ venue }: VenueDetailProps) => {
         </p>
 
         {venue.gallery.length > 0 && <Gallery images={venue.gallery} />}
+
+        <div className="my-3 pt-3">
+          <h3 className="text-xl">Events</h3>
+          {venue.events.length > 0 ? (
+            <div className="w-2/3 mt-2 border-2 border-white">
+              <EventList
+                data={venue.events}
+                showActions={false}
+                dataExtractor={(e) => ({
+                  name: e.name,
+                  date: e.date,
+                  venue: venue.name,
+                })}
+              />
+            </div>
+          ) : (
+            <p className="err-msg mt-3">No events</p>
+          )}
+        </div>
 
         <p className="mt-3">
           <span className="font-semibold">Details - </span>
