@@ -28,7 +28,7 @@ const createMusician = async (req, res) => {
   const eventList = []
 
   const createEvents = events.map(
-    async ({ date, time, venue, ...eventBody }) => {
+    async ({ date, time, venue: venueId, ...eventBody }) => {
       let eventDate = ''
 
       if (time) {
@@ -39,7 +39,7 @@ const createMusician = async (req, res) => {
 
       const event = new Event({
         ...eventBody,
-        venue: venue._id,
+        venue: venueId,
         date: eventDate,
       })
 
@@ -49,7 +49,7 @@ const createMusician = async (req, res) => {
         name: stray?.name || newMusician.name,
       }
 
-      await Venue.findByIdAndUpdate(venue._id, {
+      await Venue.findByIdAndUpdate(venueId, {
         $push: { events: event },
       })
 
