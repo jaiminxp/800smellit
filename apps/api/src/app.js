@@ -42,7 +42,7 @@ app.use(express.urlencoded({ extended: true, limit: '50mb' }))
 app.use(express.json({ limit: '50mb' }))
 app.use(methodOverride('_method'))
 app.use(express.static(path.join(__dirname, 'assets')))
-app.use(morgan('tiny'))
+app.use(morgan('dev', { stream: { write: (msg) => debug.log(msg.trimEnd()) } }))
 app.use(helmet())
 app.use(
   cors({
