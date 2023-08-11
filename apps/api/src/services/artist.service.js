@@ -1,4 +1,5 @@
 const { cloudinary } = require('../config/cloudinary')
+const debug = require('../lib/debug')
 const { Artist } = require('../models/artist')
 
 class ArtistService {
@@ -15,7 +16,7 @@ class ArtistService {
       const deleteGallery = ogGallery.map(async (image) => {
         if (image.filepath) {
           await cloudinary.uploader.destroy(image.filepath)
-          console.log('❌Deleted file: ', image.filepath)
+          debug.log('❌Deleted file: ', image.filepath)
         }
       })
 
@@ -42,7 +43,7 @@ class ArtistService {
     const deleteGallery = gallery.map(async (image) => {
       if (image.filepath) {
         await cloudinary.uploader.destroy(image.filepath)
-        console.log('❌Deleted file: ', image.filepath)
+        debug.log('❌Deleted file: ', image.filepath)
       }
     })
 

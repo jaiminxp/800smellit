@@ -21,6 +21,7 @@ const serviceRoutes = require('./routes/services')
 const venueRoutes = require('./routes/venues')
 const utilsRoutes = require('./routes/utils')
 const ExpressError = require('./lib/ExpressError')
+const debug = require('./lib/debug')
 
 const port = process.env.PORT || 3333
 
@@ -41,7 +42,7 @@ app.use(express.urlencoded({ extended: true, limit: '50mb' }))
 app.use(express.json({ limit: '50mb' }))
 app.use(methodOverride('_method'))
 app.use(express.static(path.join(__dirname, 'assets')))
-app.use(morgan('tiny'))
+app.use(morgan('dev', { stream: { write: (msg) => debug.log(msg.trimEnd()) } }))
 app.use(helmet())
 app.use(
   cors({
@@ -81,5 +82,5 @@ app.use((err, req, res, next) => {
 })
 
 app.listen(port, () => {
-  console.log(`API is running at http://localhost:${port}`)
+  debug.status(`Serving at port ${port}`)
 })

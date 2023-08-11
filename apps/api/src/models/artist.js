@@ -5,6 +5,7 @@ const Event = require('./event')
 const User = require('./user')
 const { profileStatuses } = require('../seeds/seedHelpers')
 const { cloudinary } = require('../config/cloudinary')
+const debug = require('../lib/debug')
 
 const { Schema } = mongoose
 
@@ -74,7 +75,7 @@ extendedArtistSchema.post('findOneAndDelete', async function (doc) {
     const deleteGallery = doc.gallery.map(async (image) => {
       if (image.filepath) {
         await cloudinary.uploader.destroy(image.filepath)
-        console.log('❌Deleted file: ', image.filepath)
+        debug.log('❌Deleted file: ', image.filepath)
       }
     })
 
@@ -87,7 +88,7 @@ extendedArtistSchema.post('findOneAndDelete', async function (doc) {
       const deleteRevisionGallery = gallery.map(async (image) => {
         if (image.filepath) {
           await cloudinary.uploader.destroy(image.filepath)
-          console.log('❌Deleted file: ', image.filepath)
+          debug.log('❌Deleted file: ', image.filepath)
         }
       })
 

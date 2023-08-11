@@ -6,6 +6,7 @@ const { getUser } = require('../lib/utils')
 const { streamUpload } = require('../config/cloudinary')
 
 const EmailService = require('../services/email.service')
+const debug = require('../lib/debug')
 
 const createMusician = async (req, res) => {
   const musicianData = JSON.parse(req.body.musician)
@@ -59,7 +60,7 @@ const createMusician = async (req, res) => {
 
   if (logo) {
     const uploadedLogo = await streamUpload(logo[0].buffer)
-    console.log('☁️ Uploaded file', logo[0].originalname)
+    debug.log('☁️ Uploaded file', logo[0].originalname)
 
     // save cloudinary URL and filepath in db
     newMusician.logo = {
@@ -71,7 +72,7 @@ const createMusician = async (req, res) => {
   if (gallery) {
     const uploadGallery = gallery.map(async (file) => {
       const uploadedFile = await streamUpload(file.buffer, 'test_user')
-      console.log('☁️ Uploaded file', file.originalname)
+      debug.log('☁️ Uploaded file', file.originalname)
 
       newMusician.gallery.push({
         url: uploadedFile.secure_url,
@@ -86,7 +87,7 @@ const createMusician = async (req, res) => {
     // upload songs
     const uploadSongs = songs.map(async (file) => {
       const uploadedFile = await streamUpload(file.buffer)
-      console.log('☁️ Uploaded audio🎵', file.originalname)
+      debug.log('☁️ Uploaded audio🎵', file.originalname)
 
       newMusician.songs.push({
         url: uploadedFile.secure_url,
@@ -221,7 +222,7 @@ const updateMusician = async (req, res) => {
 
   if (logo) {
     const uploadedLogo = await streamUpload(logo[0].buffer)
-    console.log('☁️ Uploaded file: ', logo[0].originalname)
+    debug.log('☁️ Uploaded file: ', logo[0].originalname)
 
     musician.revision.logo = {
       url: uploadedLogo.secure_url,
@@ -232,7 +233,7 @@ const updateMusician = async (req, res) => {
   if (gallery) {
     const galleryUploads = gallery.map(async (image) => {
       const uploadedFile = await streamUpload(image.buffer)
-      console.log('☁️ Uploaded file: ', image.originalname)
+      debug.log('☁️ Uploaded file: ', image.originalname)
 
       musician.revision.gallery.push({
         url: uploadedFile.secure_url,
@@ -246,7 +247,7 @@ const updateMusician = async (req, res) => {
   if (songs) {
     const songUploads = songs.map(async (song) => {
       const uploadedFile = await streamUpload(song.buffer)
-      console.log('☁️ Uploaded audio🎵: ', song.originalname)
+      debug.log('☁️ Uploaded audio🎵: ', song.originalname)
 
       musician.revision.songs.push({
         url: uploadedFile.secure_url,

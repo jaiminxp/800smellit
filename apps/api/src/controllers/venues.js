@@ -1,5 +1,6 @@
 const { streamUpload } = require('../config/cloudinary')
 const ExpressError = require('../lib/ExpressError')
+const debug = require('../lib/debug')
 const { getUser } = require('../lib/utils')
 const { Venue, StrayVenue } = require('../models/venue')
 
@@ -37,7 +38,7 @@ const create = async (req, res) => {
   if (gallery) {
     const galleryUploads = gallery.map(async (file) => {
       const uploadedFile = await streamUpload(file.buffer, 'test_user')
-      console.log('☁️ Uploaded file', file.originalname)
+      debug.log('☁️ Uploaded file', file.originalname)
 
       venueGallery.push({
         url: uploadedFile.secure_url,
@@ -132,7 +133,7 @@ const update = async (req, res) => {
   if (gallery) {
     const galleryUploads = gallery.map(async (image) => {
       const uploadedFile = await streamUpload(image.buffer)
-      console.log('☁️ Uploaded file: ', image.originalname)
+      debug.log('☁️ Uploaded file: ', image.originalname)
 
       newGallery.push({
         url: uploadedFile.secure_url,

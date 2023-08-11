@@ -1,4 +1,5 @@
 const nodemailer = require('nodemailer')
+const debug = require('../lib/debug')
 
 const { SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS } = process.env
 
@@ -17,9 +18,9 @@ const transporter = nodemailer.createTransport({
 
 transporter.verify((error) => {
   if (error) {
-    console.log(error)
+    debug.error('SMTP connection error:', error)
   } else {
-    console.log('✅ SMTP server ready.')
+    debug.status('SMTP server ready.')
   }
 })
 

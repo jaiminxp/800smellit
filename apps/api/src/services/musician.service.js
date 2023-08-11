@@ -1,4 +1,5 @@
 const { cloudinary } = require('../config/cloudinary')
+const debug = require('../lib/debug')
 const { Musician } = require('../models/musician')
 
 class MusicianService {
@@ -14,7 +15,7 @@ class MusicianService {
       // delete existing logo
       if (ogLogo.filepath) {
         await cloudinary.uploader.destroy(ogLogo.filepath)
-        console.log('❌Deleted file: ', ogLogo.filepath)
+        debug.log('❌Deleted file: ', ogLogo.filepath)
       }
     }
 
@@ -25,7 +26,7 @@ class MusicianService {
       const deleteGallery = ogGallery.map(async (image) => {
         if (image.filepath) {
           await cloudinary.uploader.destroy(image.filepath)
-          console.log('❌Deleted file: ', image.filepath)
+          debug.log('❌Deleted file: ', image.filepath)
         }
       })
 
@@ -39,7 +40,7 @@ class MusicianService {
       const deleteSongs = ogSongs.map(async (song) => {
         if (song.filepath) {
           await cloudinary.uploader.destroy(song.filepath)
-          console.log('❌Deleted file: ', song.filepath)
+          debug.log('❌Deleted file: ', song.filepath)
         }
       })
 
@@ -65,20 +66,20 @@ class MusicianService {
     // delete assets uploaded during revision
     if (logo && logo.filepath) {
       await cloudinary.uploader.destroy(logo.filepath)
-      console.log('❌Deleted file: ', logo.filepath)
+      debug.log('❌Deleted file: ', logo.filepath)
     }
 
     const deleteGallery = gallery.map(async (image) => {
       if (image.filepath) {
         await cloudinary.uploader.destroy(image.filepath)
-        console.log('❌Deleted file: ', image.filepath)
+        debug.log('❌Deleted file: ', image.filepath)
       }
     })
 
     const deleteSongs = songs.map(async (song) => {
       if (song.filepath) {
         await cloudinary.uploader.destroy(song.filepath)
-        console.log('❌Deleted file: ', song.filepath)
+        debug.log('❌Deleted file: ', song.filepath)
       }
     })
 

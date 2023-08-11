@@ -5,6 +5,7 @@ const Event = require('./event')
 const User = require('./user')
 const { profileStatuses } = require('../seeds/seedHelpers')
 const { cloudinary } = require('../config/cloudinary')
+const debug = require('../lib/debug')
 
 const { Schema } = mongoose
 
@@ -81,20 +82,20 @@ extendedMusicianSchema.post('findOneAndDelete', async function (doc) {
     // delete musician's files from the cloud
     if (doc.logo && doc.logo.filepath) {
       await cloudinary.uploader.destroy(doc.logo.filepath)
-      console.log('❌Deleted file: ', doc.logo.filepath)
+      debug.log('❌Deleted file: ', doc.logo.filepath)
     }
 
     const deleteGallery = doc.gallery.map(async (image) => {
       if (image.filepath) {
         await cloudinary.uploader.destroy(image.filepath)
-        console.log('❌Deleted file: ', image.filepath)
+        debug.log('❌Deleted file: ', image.filepath)
       }
     })
 
     const deleteSongs = doc.songs.map(async (song) => {
       if (song.filepath) {
         await cloudinary.uploader.destroy(song.filepath)
-        console.log('❌Deleted file: ', song.filepath)
+        debug.log('❌Deleted file: ', song.filepath)
       }
     })
 
@@ -107,20 +108,20 @@ extendedMusicianSchema.post('findOneAndDelete', async function (doc) {
 
       if (logo && logo.filepath) {
         await cloudinary.uploader.destroy(logo.filepath)
-        console.log('❌Deleted file: ', logo.filepath)
+        debug.log('❌Deleted file: ', logo.filepath)
       }
 
       const deleteRevisionGallery = gallery.map(async (image) => {
         if (image.filepath) {
           await cloudinary.uploader.destroy(image.filepath)
-          console.log('❌Deleted file: ', image.filepath)
+          debug.log('❌Deleted file: ', image.filepath)
         }
       })
 
       const deleteRevisionSongs = songs.map(async (song) => {
         if (song.filepath) {
           await cloudinary.uploader.destroy(song.filepath)
-          console.log('❌Deleted file: ', song.filepath)
+          debug.log('❌Deleted file: ', song.filepath)
         }
       })
 
