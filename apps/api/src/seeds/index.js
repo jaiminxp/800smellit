@@ -37,14 +37,15 @@ const { Venue } = require('../models/venue')
 const secret = process.env.JWT_SECRET
 const { genPassword } = require('../lib/utils')
 const { productTypes, productCategories } = require('./seedHelpers')
+const debug = require('../lib/debug')
 
 mongoose.set('strictQuery', true)
 mongoose.connect(process.env.MONGO_URL)
 
 const db = mongoose.connection
-db.on('error', console.error.bind(console, 'connection error:'))
+db.on('error', (err) => debug.error('Database connection error:', err))
 db.on('open', () => {
-  console.log('✅ Database connected')
+  debug.status('Database connected')
 })
 
 const sample = (array) => array[Math.floor(Math.random() * array.length)]
@@ -511,6 +512,6 @@ seedDB().then(async () => {
   await seedVenues()
   await seedEvents()
   await seedAdmin()
-  console.log('✅ Data seeding complete')
+  debug.status('Data seeding complete')
   mongoose.connection.close()
 })

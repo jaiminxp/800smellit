@@ -21,6 +21,7 @@ const serviceRoutes = require('./routes/services')
 const venueRoutes = require('./routes/venues')
 const utilsRoutes = require('./routes/utils')
 const ExpressError = require('./lib/ExpressError')
+const debug = require('./lib/debug')
 
 const port = process.env.PORT || 3333
 
@@ -81,5 +82,5 @@ app.use((err, req, res, next) => {
 })
 
 app.listen(port, () => {
-  console.log(`API is running at http://localhost:${port}`)
+  debug.status(`Serving at port ${port}`)
 })

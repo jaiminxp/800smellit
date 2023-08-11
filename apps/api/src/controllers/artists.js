@@ -5,6 +5,7 @@ const ExpressError = require('../lib/ExpressError')
 const { getUser } = require('../lib/utils')
 const { streamUpload } = require('../config/cloudinary')
 const EmailService = require('../services/email.service')
+const debug = require('../lib/debug')
 
 const createArtist = async (req, res) => {
   const artistData = JSON.parse(req.body.artist)
@@ -60,7 +61,7 @@ const createArtist = async (req, res) => {
   if (gallery) {
     const uploadGallery = gallery.map(async (file) => {
       const uploadedFile = await streamUpload(file.buffer, 'test_user')
-      console.log('☁️ Uploaded file', file.originalname)
+      debug.log('☁️ Uploaded file', file.originalname)
 
       newArtist.gallery.push({
         url: uploadedFile.secure_url,
@@ -153,7 +154,6 @@ const me = async (req, res, next) => {
 
 const updateStatus = async (req, res) => {
   const { approve } = req.query
-  console.log(req.query)
   const { id } = req.params
 
   const artist = await Artist.findById(id)
@@ -195,7 +195,7 @@ const updateArtist = async (req, res) => {
   if (gallery) {
     const galleryUploads = gallery.map(async (image) => {
       const uploadedFile = await streamUpload(image.buffer)
-      console.log('☁️ Uploaded file: ', image.originalname)
+      debug.log('☁️ Uploaded file: ', image.originalname)
 
       artist.revision.gallery.push({
         url: uploadedFile.secure_url,

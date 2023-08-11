@@ -1,5 +1,6 @@
 const ejs = require('ejs')
 const { transporter } = require('../config/nodemailer')
+const debug = require('../lib/debug')
 
 const { SMTP_USER, ADMIN_EMAIL, ADMIN_SITE_URL } = process.env
 
@@ -13,7 +14,7 @@ class EmailService {
   static async send(to, subject, template, data) {
     ejs.renderFile(template, { ...data }, (err, templateContent) => {
       if (err) {
-        console.log(err)
+        debug.error('Template rendering error:', err)
       } else {
         transporter
           .sendMail({
@@ -22,8 +23,8 @@ class EmailService {
             subject,
             html: templateContent,
           })
-          .then(() => console.log(`📧 Email sent to ${to}`))
-          .catch((error) => console.log(error))
+          .then(() => debug.log(`📧 Email sent to ${to}`))
+          .catch((error) => debug.error('Email error:', error))
       }
     })
   }
