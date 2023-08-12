@@ -47,7 +47,7 @@ const createArtist = async (req, res) => {
         name: stray?.name || newArtist.name,
       }
 
-      Venue.findByIdAndUpdate(venueId, {
+      await Venue.findByIdAndUpdate(venueId, {
         $push: { events: event },
       })
 
@@ -56,7 +56,7 @@ const createArtist = async (req, res) => {
     }
   )
 
-  newArtist.events = eventList
+  await Promise.all(createEvents)
 
   if (gallery) {
     const uploadGallery = gallery.map(async (file) => {
@@ -99,7 +99,6 @@ const createArtist = async (req, res) => {
 
   user.roles.push('Artist')
 
-  await Promise.all(createEvents)
   await Event.insertMany(eventList)
   await user.save()
 
