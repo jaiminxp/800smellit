@@ -1,5 +1,6 @@
 const ExpressError = require('./ExpressError')
-const { getUser } = require('./utils')
+const debug = require('./debug')
+const { getUser, isProd } = require('./utils')
 
 const validateBody = (schema) => (req, res, next) => {
   const { error } = schema.validate(req.body)
@@ -31,8 +32,26 @@ const isAdmin = async (req, res, next) => {
   }
 }
 
+const logError = (err, req, res, next) => {
+  debug.error('%s', err)
+  next(err)
+}
+
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+const errorHandler = (err, req, res, next) => {
+  const { statusCode = 500 } = err
+  if (!err.message) err.message = 'Something went wrong'
+
+  res.status(statusCode).json({
+    message: err.message,
+    stack: isProd ? null : err.stack,
+  })
+}
+
 module.exports = {
   validateBody,
   validateQuery,
   isAdmin,
+  errorHandler,
+  logError,
 }

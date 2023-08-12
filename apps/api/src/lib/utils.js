@@ -59,10 +59,13 @@ function getUrl(req) {
   return `${req.protocol}://${req.headers.host}`
 }
 
+const isProd = process.env.NODE_ENV === 'production'
+
 module.exports = {
   validatePassword,
   genPassword,
   issueJWT,
   getUser,
   getUrl,
+  isProd,
 }

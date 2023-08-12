@@ -9,6 +9,8 @@ const passport = require('passport')
 const path = require('path')
 const methodOverride = require('method-override')
 const helmet = require('helmet')
+const debug = require('./lib/debug')
+const { logError, errorHandler } = require('./lib/middleware')
 
 const eventRoutes = require('./routes/events')
 const musicianRoutes = require('./routes/musicians')
@@ -21,7 +23,6 @@ const serviceRoutes = require('./routes/services')
 const venueRoutes = require('./routes/venues')
 const utilsRoutes = require('./routes/utils')
 const ExpressError = require('./lib/ExpressError')
-const debug = require('./lib/debug')
 
 const port = process.env.PORT || 3333
 
@@ -68,18 +69,13 @@ app.use('/services', serviceRoutes)
 app.use('/venues', venueRoutes)
 app.use('/', utilsRoutes)
 
-// 404 error handler
-app.all('*', (req, res, next) => {
-  next(new ExpressError(`Route ${req.path} not found`, 404))
+// handle 404 error
+app.all('*', (req) => {
+  throw new ExpressError(`Route ${req.path} not found`, 404)
 })
 
-// default error handler
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-app.use((err, req, res, next) => {
-  const { statusCode = 500 } = err
-  if (!err.message) err.message = 'Something went wrong'
-  res.status(statusCode).send(err.message)
-})
+app.use(logError)
+app.use(errorHandler)
 
 app.listen(port, () => {
   debug.status(`Serving at port ${port}`)
