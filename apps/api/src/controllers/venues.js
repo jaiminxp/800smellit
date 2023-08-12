@@ -165,7 +165,7 @@ const update = async (req, res) => {
       },
     },
     { new: true }
-  )
+  ).populate('events')
 
   res.json(nextVenue)
 }
