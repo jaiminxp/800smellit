@@ -10,6 +10,24 @@ export abstract class APIRequest {
     this.token = token
   }
 
+  private async parseResponse(res: Response) {
+    if (res.headers.get('content-type')?.includes('application/json')) {
+      return await res.json()
+    } else if (res.headers.get('content-type')?.includes('text/html')) {
+      return (await res.text()) as ResponseType
+    } else {
+      throw new Error('Cannot parse response')
+    }
+  }
+
+  private async checkStatus(response: Response) {
+    if (response.status >= 200 && response.status < 400) {
+      return response
+    }
+
+    throw await this.parseResponse(response)
+  }
+
   async request<ResponseType>(
     url: string,
     method?: string,
@@ -31,8 +49,8 @@ export abstract class APIRequest {
       body: body ? JSON.stringify(body) : null,
     })
 
-    const data = await res.json()
-    return data
+    await this.checkStatus(res)
+    return this.parseResponse(res)
   }
 
   get<ResponseType>(url: string, headers?: { [key: string]: string }) {
