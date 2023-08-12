@@ -69,10 +69,10 @@ const login = async (req, res, next) => {
           expiresIn: expires,
         })
       } else {
-        throw new ExpressError(401, 'Incorrect username or password')
+        throw new ExpressError(401, 'Incorrect email or password')
       }
     } else {
-      throw new ExpressError(401, 'Incorrect username or password')
+      throw new ExpressError(401, 'Incorrect email or password')
     }
   } catch (err) {
     next(err)
