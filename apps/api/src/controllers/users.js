@@ -92,11 +92,7 @@ const verifyEmail = async (req, res) => {
   }
 
   user.isEmailVerified = true
-  user.save((err) => {
-    if (err) {
-      res.status(500).send({ message: err })
-    }
-  })
+  user.save()
 
   return res.render('message', { message: 'Your E-mail is verified!' })
 }
