@@ -11,7 +11,7 @@ import EventFilter from './event-filter'
 
 function SearchEvent() {
   const [searchQuery, setSearchQuery] = useState<string>(
-    `type=${EventOrganizerType.Artist}`,
+    `type=${EventOrganizerType.Artist}`
   )
   const [selectedEventId, setSelectedEventId] = useState<string>()
 
@@ -20,7 +20,7 @@ function SearchEvent() {
     error,
     isLoading,
   } = useQuery(['search-events', searchQuery], () =>
-    eventService.search(searchQuery),
+    eventService.search(searchQuery)
   )
 
   const selectedEvent: Event | undefined =
@@ -58,7 +58,7 @@ function SearchEvent() {
             onRowClick={(event) => setSelectedEventId((event as Event)._id)}
             dateIndex={2}
             artistLinkIndex={1}
-            artistLinkIdField="organizerInfo.organizer.id"
+            artistLinkIdField="organizerInfo.organizer._id"
             columns={['EVENT NAME', 'ARTIST', 'DATE', 'VENUE', 'GENRE']}
             displayFields={[
               'name',
@@ -85,7 +85,7 @@ function SearchEvent() {
                 createQueryStringCb({
                   ...values,
                   type: EventOrganizerType.Artist,
-                }),
+                })
               )
             }
           />
