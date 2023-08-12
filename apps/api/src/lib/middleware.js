@@ -6,7 +6,7 @@ const validateBody = (schema) => (req, res, next) => {
   const { error } = schema.validate(req.body)
   if (error) {
     const msg = error.details.map((el) => el.message).join(',')
-    throw new ExpressError(msg, 400)
+    throw new ExpressError(400, msg)
   } else {
     next()
   }
@@ -16,7 +16,7 @@ const validateQuery = (schema) => (req, res, next) => {
   const { error } = schema.validate(req.query)
   if (error) {
     const msg = error.details.map((el) => el.message).join(',')
-    throw new ExpressError(msg, 400)
+    throw new ExpressError(400, msg)
   } else {
     next()
   }
@@ -28,7 +28,7 @@ const isAdmin = async (req, res, next) => {
   if (user.roles.includes('admin')) {
     next()
   } else {
-    throw new ExpressError('You do not have permission to do that', 403)
+    throw new ExpressError(403, 'You do not have permission to do that')
   }
 }
 

@@ -142,14 +142,14 @@ const createMusician = async (req, res) => {
   })
 }
 
-const getMusician = async (req, res, next) => {
+const getMusician = async (req, res) => {
   try {
     const { id } = req.params
     const foundMusician = await Musician.findById(id)
 
     res.json(foundMusician)
   } catch (err) {
-    next(new ExpressError('Cannot find musician.', 404))
+    throw new ExpressError(404, 'Cannot find musician.')
   }
 }
 
@@ -166,7 +166,7 @@ const search = async (req, res) => {
   res.json(musicians)
 }
 
-const me = async (req, res, next) => {
+const me = async (req, res) => {
   try {
     const user = await getUser(req)
     const foundMusician = await Musician.findOne({
@@ -175,7 +175,7 @@ const me = async (req, res, next) => {
 
     res.json(foundMusician)
   } catch (err) {
-    next(new ExpressError('Cannot find musician profile for this user.', 404))
+    throw new ExpressError(404, 'Cannot find musician profile for this user.')
   }
 }
 
@@ -213,7 +213,7 @@ const updateMusician = async (req, res) => {
   const musician = await Musician.findById(id)
 
   if (musician.profileStatus !== 'approved') {
-    throw new ExpressError('Cannot update unapproved profile', 401)
+    throw new ExpressError(401, 'Cannot update unapproved profile')
   }
 
   const musicianData = JSON.parse(req.body.musician)

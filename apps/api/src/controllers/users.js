@@ -52,7 +52,7 @@ const login = async (req, res, next) => {
       if (isValid) {
         // check if user has veirfied their email
         if (!foundUser.isEmailVerified) {
-          throw new ExpressError('Please verify your email', 401)
+          throw new ExpressError(401, 'Please verify your email')
         }
 
         // issue JWT if password is valid
@@ -69,10 +69,10 @@ const login = async (req, res, next) => {
           expiresIn: expires,
         })
       } else {
-        throw new ExpressError('Incorrect username or password', 401)
+        throw new ExpressError(401, 'Incorrect username or password')
       }
     } else {
-      throw new ExpressError('Incorrect username or password', 401)
+      throw new ExpressError(401, 'Incorrect username or password')
     }
   } catch (err) {
     next(err)

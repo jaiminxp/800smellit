@@ -113,7 +113,7 @@ const update = async (req, res) => {
   const prevVenue = await Venue.findById(id)
 
   if (!prevVenue) {
-    throw new ExpressError('Cannot find venue', 401)
+    throw new ExpressError(401, 'Cannot find venue')
   }
 
   const {

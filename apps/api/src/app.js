@@ -71,7 +71,7 @@ app.use('/', utilsRoutes)
 
 // handle 404 error
 app.all('*', (req) => {
-  throw new ExpressError(`Route ${req.path} not found`, 404)
+  throw new ExpressError(404, `Route ${req.path} not found`)
 })
 
 app.use(logError)

@@ -114,14 +114,14 @@ const createArtist = async (req, res) => {
   })
 }
 
-const getArtist = async (req, res, next) => {
+const getArtist = async (req, res) => {
   try {
     const { id } = req.params
     const foundArtist = await Artist.findById(id)
 
     res.json(foundArtist)
   } catch (err) {
-    next(new ExpressError('Cannot find artist profile.', 404))
+    throw new ExpressError(404, 'Cannot find artist profile.')
   }
 }
 
@@ -147,7 +147,7 @@ const me = async (req, res, next) => {
 
     res.json(foundArtist)
   } catch (err) {
-    next(new ExpressError('Cannot find artist profile for this user.', 404))
+    throw new ExpressError(404, 'Cannot find artist profile for this user.')
   }
 }
 
@@ -183,7 +183,7 @@ const updateArtist = async (req, res) => {
   const artist = await Artist.findById(id)
 
   if (artist.profileStatus !== 'approved') {
-    throw new ExpressError('Cannot update unapproved profile', 401)
+    throw new ExpressError(401, 'Cannot update unapproved profile')
   }
 
   const artistData = JSON.parse(req.body.artist)
