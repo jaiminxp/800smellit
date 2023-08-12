@@ -22,7 +22,6 @@ export default abstract class APIRequest {
 
   private async checkStatus(response: Response) {
     if (response.status >= 200 && response.status < 300) {
-    if (response.status >= 200 && response.status < 400) {
       return response
     }
 
@@ -33,7 +32,7 @@ export default abstract class APIRequest {
     url: string,
     method?: string,
     body?: any,
-    headers?: { [key: string]: string },
+    headers?: { [key: string]: string }
   ): Promise<ResponseType> {
     const verb = (method || 'get').toUpperCase()
     const requestHeaders: any = Object.assign(
@@ -41,7 +40,7 @@ export default abstract class APIRequest {
         'Content-Type': 'application/json',
         Authorization: this.token || localStorage.getItem(TOKEN) || '',
       },
-      headers || {},
+      headers || {}
     )
 
     if (body) {
@@ -71,7 +70,7 @@ export default abstract class APIRequest {
   post<ResponseType>(
     url: string,
     data?: any,
-    headers?: { [key: string]: string },
+    headers?: { [key: string]: string }
   ) {
     return this.request<ResponseType>(url, 'post', data, headers)
   }
@@ -79,7 +78,7 @@ export default abstract class APIRequest {
   put<ResponseType>(
     url: string,
     data?: any,
-    headers?: { [key: string]: string },
+    headers?: { [key: string]: string }
   ) {
     return this.request<ResponseType>(url, 'put', data, headers)
   }
@@ -87,7 +86,7 @@ export default abstract class APIRequest {
   del<ResponseType>(
     url: string,
     data?: any,
-    headers?: { [key: string]: string },
+    headers?: { [key: string]: string }
   ) {
     return this.request<ResponseType>(url, 'delete', data, headers)
   }
