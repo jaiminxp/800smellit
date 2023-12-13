@@ -1,0 +1,15 @@
+node_modules
+Dockerfile
+.dockerignore
+.vscode
+dist
+scripts
+.editorconfig
+.eslintignore
+.eslintec.json
+.git
+.gitignore
+.prettierignore
+.prettierrc
+README.md
+.DS_Store
