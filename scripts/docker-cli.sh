@@ -22,6 +22,9 @@ docker run -v $(pwd)/apps:/app/apps:ro -v /app/node_modules --env-file apps/api/
 # kill and remove the container (forced)
 docker rm 800smellit -f
 
+# delete anonymous volumes when removing the container
+docker rm 800smellit -fv
+
 # access container cli
 docker exec -it 800smellit bash
 
