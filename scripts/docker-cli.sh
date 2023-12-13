@@ -13,6 +13,12 @@ docker run -v $(pwd)/apps:/app/apps -v /app/node_modules -p 3000:3000 -d --name 
 # run the container with readonly bindmount volume (:ro flag)
 docker run -v $(pwd)/apps:/app/apps:ro -v /app/node_modules -p 3000:3000 -d --name 800smellit 800smellit-image
 
+# run the container and set env variable in it
+docker run -v $(pwd)/apps:/app/apps:ro -v /app/node_modules --env PORT=4000 -p 3000:4000 -d --name 800smellit 800smellit-image
+
+# run the container and specify .env file to use
+docker run -v $(pwd)/apps:/app/apps:ro -v /app/node_modules --env-file apps/api/.env -p 3000:3000 -d --name 800smellit 800smellit-image
+
 # kill and remove the container (forced)
 docker rm 800smellit -f
 
