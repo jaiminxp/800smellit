@@ -30,3 +30,12 @@ docker exec -it 800smellit bash
 
 # display container logs
 docker logs 800smellit
+
+# start the containers in detached mode
+docker compose up -d
+
+# rebuild the image and start the containers
+docker compose up -d --build
+
+# stop containers and delete the anonymous volumes
+docker compose down -v
