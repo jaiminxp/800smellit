@@ -51,6 +51,9 @@ docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d api --no-de
 # build the image and renew anonymous volumes (-V or --renew-anon-volumes)
 docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --build -V
 
+# scale api service to 2 containers
+docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --scale api=2
+
 # run mongo shell in mongo container
 docker exec -it 800smellit-mongo mongosh -u "jaimin" -p "800smellit"
 

@@ -31,6 +31,7 @@ require('./config/database')
 // CONFIGURES PASSPORT
 require('./config/passport')(passport)
 
+app.enable('trust proxy')
 app.use(passport.initialize())
 
 // VIEW ENGINE SETUP

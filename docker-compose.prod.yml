@@ -6,3 +6,7 @@ services:
       args:
         NODE_ENV: production
     command: npm run api:serve
+
+  nginx:
+    ports:
+      - '80:80'

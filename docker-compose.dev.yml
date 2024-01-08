@@ -9,3 +9,7 @@ services:
       - ./apps:/app/apps:ro
       - /app/node_modules
     command: npx nx serve api
+
+  nginx:
+    ports:
+      - '3000:80'
