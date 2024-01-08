@@ -1,4 +1,8 @@
 version: '3'
 services:
   api:
+    build:
+      context: .
+      args:
+        NODE_ENV: production
     command: npm run api:serve

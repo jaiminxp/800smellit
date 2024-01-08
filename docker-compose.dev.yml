@@ -1,6 +1,10 @@
 version: '3'
 services:
   api:
+    build:
+      context: .
+      args:
+        NODE_ENV: development
     volumes:
       - ./apps:/app/apps:ro
       - /app/node_modules
