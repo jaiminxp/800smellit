@@ -44,5 +44,21 @@ docker compose down -v
 docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d
 docker compose -f docker-compose.yml -f docker-compose.dev.yml down -v # -v flag also deletes named volumes
 
+# specify the name of the service to start (api) and don't start linked services (--no-deps)
+docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d api --no-deps
+
+# if the containers are already up and running
+# build the image and renew anonymous volumes (-V or --renew-anon-volumes)
+docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --build -V
+
 # run mongo shell in mongo container
 docker exec -it 800smellit-mongo mongosh -u "jaimin" -p "800smellit"
+
+# get info about a container
+docker inspect 800smellit-api
+
+# list networks
+docker network ls
+
+# get network details
+docker network inspect 800smellit-nx_default
