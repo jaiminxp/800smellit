@@ -26,7 +26,7 @@ const debug = require('./lib/debug')
 const port = process.env.PORT || 3333
 
 // CONFIGURES THE DATABASE
-// require('./config/database')
+require('./config/database')
 
 // CONFIGURES PASSPORT
 require('./config/passport')(passport)
@@ -55,8 +55,6 @@ app.use(
     credentials: true,
   })
 )
-
-app.get('/', (req, res) => res.json({ message: 'Welcome to 800SmellIt API' }))
 
 // ROUTES
 app.use('/', userRoutes)
