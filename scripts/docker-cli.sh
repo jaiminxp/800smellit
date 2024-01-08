@@ -39,3 +39,7 @@ docker compose up -d --build
 
 # stop containers and delete the anonymous volumes
 docker compose down -v
+
+# use different compose files for different environments
+docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d
+docker compose -f docker-compose.yml -f docker-compose.dev.yml down -v

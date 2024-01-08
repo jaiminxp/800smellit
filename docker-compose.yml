@@ -5,8 +5,5 @@ services:
     build: .
     ports:
       - '3000:3000'
-    volumes:
-      - ./apps:/app/apps:ro
-      - /app/node_modules
     env_file:
       - apps/api/.env

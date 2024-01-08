@@ -1,0 +1,7 @@
+version: '3'
+services:
+  api:
+    volumes:
+      - ./apps:/app/apps:ro
+      - /app/node_modules
+    command: npx nx serve api

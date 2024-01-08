@@ -13,3 +13,4 @@ scripts
 .prettierrc
 README.md
 .DS_Store
+docker-compose*
