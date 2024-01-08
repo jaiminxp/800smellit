@@ -42,4 +42,7 @@ docker compose down -v
 
 # use different compose files for different environments
 docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d
-docker compose -f docker-compose.yml -f docker-compose.dev.yml down -v
+docker compose -f docker-compose.yml -f docker-compose.dev.yml down -v # -v flag also deletes named volumes
+
+# run mongo shell in mongo container
+docker exec -it 800smellit-mongo mongosh -u "jaimin" -p "800smellit"

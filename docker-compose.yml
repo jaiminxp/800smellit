@@ -7,3 +7,16 @@ services:
       - '3000:3000'
     env_file:
       - apps/api/.env
+
+  mongo:
+    image: mongo
+    container_name: 800smellit-mongo
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=jaimin
+      - MONGO_INITDB_ROOT_PASSWORD=800smellit
+    volumes:
+      - mongo-db:/data/db # persist mongodb data in a named volume
+
+# declare named volumes
+volumes:
+  mongo-db:
