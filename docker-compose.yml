@@ -1,6 +1,7 @@
 version: '3'
 services:
   api:
+    image: jaimax/800smellit-api
     build:
       context: .
       platforms:
