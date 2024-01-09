@@ -4,8 +4,6 @@ services:
     image: jaimax/800smellit-api
     build:
       context: .
-      platforms:
-        - linux/amd64
     env_file:
       - apps/api/.env
     depends_on:
