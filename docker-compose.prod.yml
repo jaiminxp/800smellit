@@ -6,6 +6,13 @@ services:
       args:
         NODE_ENV: production
     command: npm run api:serve
+    deploy:
+      replicas: 2
+      restart_policy:
+        condition: any
+      update_config:
+        parallelism: 1
+        delay: 15s
 
   nginx:
     ports:
