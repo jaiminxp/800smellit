@@ -65,3 +65,24 @@ docker network ls
 
 # get network details
 docker network inspect 800smellit-nx_default
+
+# build api image and run it locally
+docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --build --no-deps api
+
+# rename image
+docker image tag 800smellit-nx-api jaimax/800smellit-api
+ 
+# build api image for production
+docker compose -f docker-compose.yml -f docker-compose.prod.yml build api
+
+# push prod image to docker hub
+docker compose -f docker-compose.yml -f docker-compose.prod.yml push api
+
+# pull image from docker hub
+docker compose -f docker-compose.yml -f docker-compose.prod.yml pull api
+
+# recreate the api container if the image has changed
+docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d--no-deps api
+
+# forces docker to recreate the api container even if the image has not changed
+docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --force-recreate --no-deps api
