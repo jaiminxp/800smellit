@@ -86,3 +86,6 @@ docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d--no-deps ap
 
 # forces docker to recreate the api container even if the image has not changed
 docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --force-recreate --no-deps api
+
+# run watchtower container to watch 800smellit-nx-api-1 container
+docker run -d --name watchtower -e WATCHTOWER_TRACE=true -e WATCHTOWER_DEBUG=true -e WATCHTOWER_POLL_INTERVAL=50 -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower 800smellit-nx-api-1
