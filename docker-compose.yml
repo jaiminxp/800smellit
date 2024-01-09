@@ -13,7 +13,6 @@ services:
 
   mongo:
     image: mongo
-    container_name: 800smellit-mongo
     environment:
       - MONGO_INITDB_ROOT_USERNAME=jaimin
       - MONGO_INITDB_ROOT_PASSWORD=800smellit
