@@ -89,3 +89,27 @@ docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d --force-rec
 
 # run watchtower container to watch 800smellit-nx-api-1 container
 docker run -d --name watchtower -e WATCHTOWER_TRACE=true -e WATCHTOWER_DEBUG=true -e WATCHTOWER_POLL_INTERVAL=50 -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower 800smellit-nx-api-1
+
+# init swarm and create first node
+docker swarm init
+
+# deploy the stack
+docker stack deploy -c docker-compose.yml -c docker-compose.prod.yml 800smellit
+
+# remove stack
+docker stack rm 800smellit
+
+# view all nodes
+docker node ls
+
+# view all stacks
+docker stack ls
+
+# view all services across all stacks
+docker service ls
+
+# list services in a stack
+docker stack services 800smellit
+
+# list tasks in a stack
+docker stack ps 800smellit
